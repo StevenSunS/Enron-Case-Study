@@ -1,7 +1,9 @@
 # Enron Case Study
  
 # Project Overview:
-The project report can accessed via `SNA Enron.pdf`. This project aims to analyze the published internal email database after Enron's Collapse in 2001. Illegal energy laundering is observed with key player shown in the network chart `energylaundering.png`.
+The project report can accessed via `SNA Enron.pdf`. This project aims to analyze the published internal email database after Enron's Collapse in 2001. Illegal energy laundering is observed with key player:
+
+![alt text](https://github.com/StevenSunS/Enron-Case-Study/blob/main/energylaundering.png)
 
 Here are the key contributions from Enron case study:
 - Utilized dataset of 500K+ emails from Enron employees published by US Federal Energy Regulatory Commission
