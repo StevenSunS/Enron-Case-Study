@@ -8,4 +8,4 @@
 - Implemented fraud triangle framework and identified key components (leadership, culture, management control) in Enron's deterioration
 
 # Code Structure:
-The code can be accessed in
+The code can be accessed in `Main.R`. The library used in include data processing packages `data.table`, `tidyverse`, `lubricate`; natural language processing packages: `stringr`, `tidytext`, `tm`, and `wordcloud`; network processing package: `igraph`.
