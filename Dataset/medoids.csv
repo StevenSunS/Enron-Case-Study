@@ -1,0 +1,3085 @@
+date,Primary_Industry_Code,medoid
+1991,Drug Discovery,10367-47
+1991,Biotechnology,11251-81
+1991,Electronic Components,11275-75
+1991,Other Software,57314-80
+1991,Education and Training Services (B2B),58910-86
+1992,Telecommunications Service Providers,10134-73
+1992,Biotechnology,10181-17
+1992,Medical Supplies,11120-59
+1992,Drug Delivery,11211-40
+1992,Pharmaceuticals,11122-12
+1992,Food Products,51280-03
+1992,Monitoring Equipment,51669-64
+1992,Aerospace and Defense,56255-86
+1992,Other IT Services,85493-26
+1993,Asset Management,107903-44
+1993,Biotechnology,11111-86
+1993,Therapeutic Devices,11115-19
+1993,Drug Discovery,11115-28
+1993,Automation/Workflow Software,11122-12
+1993,Consulting Services (B2B),11174-14
+1993,Drug Delivery,11184-49
+1993,Medical Supplies,11191-96
+1993,Application Software,11193-13
+1993,Diagnostic Equipment,11207-89
+1993,General Purpose Semiconductors,11228-50
+1993,Electrical Equipment,11302-39
+1993,Pharmaceuticals,11326-33
+1993,Legal Services (B2B),11336-05
+1993,Other Commercial Services,57314-80
+1994,Wireless Service Providers,10052-20
+1994,Automation/Workflow Software,10070-83
+1994,Biotechnology,11137-87
+1994,Internet Service Providers,11322-28
+1994,Other Communications and Networking,10181-17
+1994,Systems and Information Management,10077-85
+1994,"Computers, Parts and Peripherals",11295-91
+1994,Electrical Equipment,10195-75
+1994,Other Commercial Products,10985-23
+1994,Pharmaceuticals,11114-11
+1994,Drug Discovery,11162-08
+1994,Business/Productivity Software,11127-88
+1994,Electronics (B2C),11161-36
+1994,Therapeutic Devices,11293-30
+1994,Consulting Services (B2B),11174-14
+1994,Diagnostic Equipment,11177-20
+1994,Application Software,11281-06
+1994,General Purpose Semiconductors,42871-51
+1994,Medical Supplies,11237-14
+1994,Multi-line Insurance,11256-40
+1994,Other Healthcare Services,11326-33
+1994,BPO/Outsource Services,11331-91
+1994,Telecommunications Service Providers,25383-79
+1994,Industrial Supplies and Parts,54858-79
+1994,Distributors/Wholesale,57314-80
+1994,Printing Services (B2B),57314-80
+1995,"Broadcasting, Radio and Television",10022-14
+1995,Electrical Equipment,10052-20
+1995,Beverages,25197-58
+1995,Discovery Tools (Healthcare),42767-20
+1995,Drug Discovery,11115-28
+1995,Pharmaceuticals,11111-68
+1995,Hospitals/Inpatient Services,10134-73
+1995,Application Software,10135-81
+1995,"Computers, Parts and Peripherals",10139-41
+1995,Decision/Risk Analysis,11181-43
+1995,Other Hardware,11122-48
+1995,Other Communications and Networking,11124-28
+1995,Other Software,11127-25
+1995,General Purpose Semiconductors,11135-62
+1995,Social/Platform Software,11135-71
+1995,Systems and Information Management,11142-19
+1995,Wireless Service Providers,11142-73
+1995,Energy Transportation,11150-29
+1995,Enterprise Systems (Healthcare),11168-92
+1995,Thrifts and Mortgage Finance,11172-43
+1995,Therapeutic Devices,11177-11
+1995,Holding Companies,11184-40
+1995,Media and Information Services (B2B),11198-62
+1995,Medical Supplies,11262-88
+1995,Communication Software,11237-14
+1995,Diagnostic Equipment,11262-52
+1995,Publishing,11295-73
+1995,Educational and Training Services (B2C),11304-28
+1995,Machinery (B2B),11327-41
+1995,Biotechnology,11337-76
+1995,Industrial Chemicals,49309-12
+1995,Iron and Steel Mining,51599-53
+1995,Other Containers and Packaging,55502-65
+1995,Food Products,55763-56
+1996,Biotechnology,10020-07
+1996,Vertical Market Software,10052-20
+1996,Drug Discovery,11115-28
+1996,Elder and Disabled Care,11153-98
+1996,Restaurants and Bars,11296-45
+1996,Business/Productivity Software,11132-38
+1996,Communication Software,11165-68
+1996,Internet Service Providers,11313-01
+1996,Network Management Software,10134-73
+1996,Application Software,11148-04
+1996,"Computers, Parts and Peripherals",43064-47
+1996,Other Software,11290-78
+1996,Fiberoptic Equipment,10195-75
+1996,Security Services (B2B),10242-91
+1996,Media and Information Services (B2B),11160-10
+1996,Pharmaceuticals,11114-11
+1996,Diagnostic Equipment,108183-97
+1996,Industrial Supplies and Parts,11104-21
+1996,Database Software,11105-29
+1996,Software Development Applications,11159-74
+1996,Entertainment Software,11110-15
+1996,Other Consumer Durables,11110-87
+1996,Electronic Components,11123-20
+1996,Discovery Tools (Healthcare),11136-61
+1996,Medical Supplies,11261-71
+1996,Internet Retail,11141-65
+1996,Internet Software,11142-19
+1996,Specialty Chemicals,11145-52
+1996,BPO/Outsource Services,11147-95
+1996,Wireless Communications Equipment,11165-50
+1996,Systems and Information Management,11170-81
+1996,Food Products,11173-69
+1996,Telecommunications Service Providers,11174-77
+1996,Decision/Risk Analysis,11181-43
+1996,Social/Platform Software,11184-40
+1996,Holding Companies,11191-96
+1996,Electrical Equipment,11196-10
+1996,Beverages,11201-59
+1996,Therapeutic Devices,11207-17
+1996,Other IT Services,11213-92
+1996,Insurance Brokers,11217-25
+1996,Wireless Service Providers,11223-19
+1996,Other Communications and Networking,11224-18
+1996,Connectivity Products,11242-54
+1996,Human Capital Services,11322-46
+1996,Laboratory Services (Healthcare),11252-44
+1996,Automation/Workflow Software,11258-38
+1996,Surgical Devices,11274-04
+1996,Monitoring Equipment,11322-91
+1996,General Purpose Semiconductors,11336-32
+1996,Paper Containers & Packaging,12075-22
+1996,"Other Metals, Minerals and Mining",168842-62
+1996,Educational and Training Services (B2C),52166-62
+1996,Other Commercial Products,57314-80
+1997,Biotechnology,10020-07
+1997,Application Software,10135-81
+1997,Automation/Workflow Software,11258-83
+1997,Wireless Service Providers,10052-20
+1997,Communication Software,10068-04
+1997,Beverages,25197-58
+1997,Connectivity Products,10133-20
+1997,Discovery Tools (Healthcare),11136-61
+1997,Elder and Disabled Care,11153-98
+1997,Information Services (B2C),11217-25
+1997,Other Software,11147-95
+1997,Pharmaceuticals,10521-46
+1997,Business/Productivity Software,11213-74
+1997,Network Management Software,11179-99
+1997,Systems and Information Management,11124-28
+1997,Managed Care,11247-13
+1997,Vertical Market Software,10139-41
+1997,Wireless Communications Equipment,11265-94
+1997,"Computers, Parts and Peripherals",11142-28
+1997,Other Financial Services,10146-16
+1997,Storage (IT),11111-23
+1997,General Purpose Semiconductors,151294-06
+1997,Media and Information Services (B2B),10411-93
+1997,Social/Platform Software,11129-23
+1997,Other Healthcare Services,10458-73
+1997,Hotels and Resorts,10563-22
+1997,Medical Supplies,11192-68
+1997,Other Pharmaceuticals and Biotechnology,108183-97
+1997,Telecommunications Service Providers,10905-04
+1997,Other Commercial Products,11109-61
+1997,Surgical Devices,11303-83
+1997,Drug Discovery,11138-68
+1997,Electronic Components,11116-99
+1997,Internet Service Providers,11127-88
+1997,Other Commercial Services,11237-68
+1997,Enterprise Systems (Healthcare),11133-37
+1997,Other Communications and Networking,11133-37
+1997,Internet Software,11222-83
+1997,Application Specific Semiconductors,11142-19
+1997,Oil and Gas Equipment,11312-92
+1997,Production (Semiconductors),123123-88
+1997,Diagnostic Equipment,11175-13
+1997,Therapeutic Devices,11177-11
+1997,"Movies, Music and Entertainment",11181-79
+1997,Publishing,11196-10
+1997,Holding Companies,11197-81
+1997,Human Capital Services,11201-59
+1997,Practice Management (Healthcare),11210-32
+1997,"Broadcasting, Radio and Television",11278-99
+1997,Database Software,11211-40
+1997,Other IT Services,11250-10
+1997,Industrial Supplies and Parts,42348-97
+1997,Monitoring Equipment,11251-81
+1997,Educational and Training Services (B2C),11253-52
+1997,Software Development Applications,11256-40
+1997,Building Products,11262-52
+1997,Electronics (B2C),11271-79
+1997,Other Devices and Supplies,11288-17
+1997,Logistics,11313-28
+1997,Environmental Services (B2B),11340-01
+1997,Financial Software,11851-66
+1997,Legal Services (B2B),11867-23
+1997,Internet Retail,42246-64
+1997,Distributors/Wholesale (B2C),57314-80
+1998,IT Consulting and Outsourcing,55747-90
+1998,Wireless Communications Equipment,11252-26
+1998,Network Management Software,11124-46
+1998,Social/Platform Software,10411-93
+1998,Vertical Market Software,11291-32
+1998,Business/Productivity Software,10068-04
+1998,Aerospace and Defense,10070-83
+1998,Communication Software,42259-24
+1998,Connectivity Products,11237-50
+1998,Elder and Disabled Care,10070-83
+1998,Electronic Components,11037-07
+1998,Laboratory Services (Healthcare),10070-83
+1998,Other Software,40849-84
+1998,Restaurants and Bars,224122-15
+1998,Telecommunications Service Providers,11132-38
+1998,Therapeutic Devices,11208-07
+1998,Biotechnology,100761-31
+1998,Clinics/Outpatient Services,10109-26
+1998,Application Software,10357-03
+1998,Hospitals/Inpatient Services,10181-17
+1998,Surgical Devices,11143-54
+1998,Systems and Information Management,11248-93
+1998,Life and Health Insurance,11193-76
+1998,Other Capital Markets/Institutions,10139-41
+1998,Storage (IT),11124-19
+1998,"Broadcasting, Radio and Television",11211-40
+1998,"Computers, Parts and Peripherals",11142-28
+1998,Pharmaceuticals,10215-64
+1998,Medical Supplies,10241-02
+1998,Other Commercial Services,10381-24
+1998,Specialized Finance,53961-94
+1998,Discovery Tools (Healthcare),10446-40
+1998,Drug Discovery,10521-46
+1998,Other Commercial Products,11104-21
+1998,Other Information Technology,11105-29
+1998,Other IT Services,11271-79
+1998,Electrical Equipment,53284-51
+1998,Internet Software,11108-89
+1998,Software Development Applications,11108-89
+1998,Diagnostic Equipment,11109-61
+1998,Wireless Service Providers,11112-67
+1998,Internet Retail,51063-31
+1998,Internet Service Providers,11114-92
+1998,Drug Delivery,11117-62
+1998,Agricultural Chemicals,11120-59
+1998,Other Communications and Networking,11122-48
+1998,Other Devices and Supplies,11123-38
+1998,Environmental Services (B2B),11125-00
+1998,Media and Information Services (B2B),11127-16
+1998,Information Services (B2C),11217-25
+1998,Electronics (B2C),11300-59
+1998,Electronic Equipment and Instruments,11311-75
+1998,Database Software,11170-81
+1998,Educational Software,11134-81
+1998,Entertainment Software,11142-19
+1998,Fiberoptic Equipment,11142-19
+1998,Enterprise Systems (Healthcare),11162-08
+1998,Monitoring Equipment,11288-17
+1998,Other Healthcare Technology Systems,11165-68
+1998,Application Specific Semiconductors,11173-78
+1998,General Purpose Semiconductors,11223-37
+1998,Oil and Gas Equipment,11312-92
+1998,Multimedia and Design Software,11177-20
+1998,Logistics,11186-92
+1998,Holding Companies,11191-96
+1998,Other Financial Services,40998-97
+1998,Educational and Training Services (B2C),11194-12
+1998,Specialty Retail,11225-89
+1998,Financial Software,11246-68
+1998,Human Capital Services,11325-79
+1998,Education and Training Services (B2B),11298-43
+1998,Home Furnishings,11294-38
+1998,Leisure Facilities,11303-56
+1998,Automation/Workflow Software,11313-46
+1998,Real Estate Services (B2C),11333-44
+1998,Other Services (B2C Non-Financial),11410-66
+1998,Industrial Supplies and Parts,12075-22
+1998,Multi-line Mining,12075-22
+1998,BPO/Outsource Services,42242-95
+1998,Medical Records Systems,52282-99
+1998,"Other Restaurants, Hotels and Leisure",53366-41
+1998,Animal Husbandry,54742-51
+1998,Alternative Energy Equipment,54858-79
+1998,Plastic Containers & Packaging,55502-65
+1998,Wood/Hard Products,55935-55
+1998,Construction and Engineering,56682-64
+1998,Publishing,56886-49
+1999,Biotechnology,10020-07
+1999,IT Consulting and Outsourcing,11156-41
+1999,Wireless Communications Equipment,55978-03
+1999,Application Software,11115-73
+1999,Application Specific Semiconductors,11173-78
+1999,Automation/Workflow Software,11112-67
+1999,Business/Productivity Software,11124-46
+1999,Fiberoptic Equipment,11224-18
+1999,Financial Software,25380-82
+1999,Network Management Software,11169-91
+1999,Vertical Market Software,11215-36
+1999,Therapeutic Devices,11125-99
+1999,Aerospace and Defense,58241-26
+1999,Clothing,11294-38
+1999,Communication Software,11114-92
+1999,Consulting Services (B2B),10230-94
+1999,Drug Discovery,11108-98
+1999,Electronic Components,10070-83
+1999,Information Services (B2C),11222-11
+1999,Internet Service Providers,11115-19
+1999,Other Software,11157-04
+1999,Pharmaceuticals,11201-95
+1999,Systems and Information Management,11165-05
+1999,Media and Information Services (B2B),10639-63
+1999,Electronic Equipment and Instruments,11305-63
+1999,Other Communications and Networking,11181-79
+1999,Telecommunications Service Providers,11119-69
+1999,Hospitals/Inpatient Services,10134-73
+1999,Human Capital Services,124497-10
+1999,Internet Retail,10357-03
+1999,Logistics,11135-08
+1999,"Accounting, Audit and Tax Services (B2C)",54058-60
+1999,BPO/Outsource Services,11171-17
+1999,Other IT Services,53460-37
+1999,Managed Care,10139-41
+1999,Social/Platform Software,10836-19
+1999,Storage (IT),11315-71
+1999,"Computers, Parts and Peripherals",11200-78
+1999,Medical Supplies,11150-83
+1999,Other Commercial Products,11286-01
+1999,Surgical Devices,11160-55
+1999,"Broadcasting, Radio and Television",11268-19
+1999,Beverages,10241-02
+1999,Diagnostic Equipment,11115-28
+1999,Accessories,11133-01
+1999,Database Software,11308-51
+1999,Real Estate Services (B2C),10271-98
+1999,Security Services (B2B),10271-98
+1999,Monitoring Equipment,10405-45
+1999,Enterprise Systems (Healthcare),11139-04
+1999,Social Content,10458-73
+1999,Hotels and Resorts,10563-22
+1999,Connectivity Products,11159-47
+1999,Other Financial Services,11201-77
+1999,Restaurants and Bars,11109-61
+1999,Other Consumer Non-Durables,54369-91
+1999,Alternative Energy Equipment,11112-31
+1999,Internet Software,111257-20
+1999,Drug Delivery,11268-82
+1999,Clinics/Outpatient Services,56049-76
+1999,Agricultural Chemicals,11120-59
+1999,Other Services (B2C Non-Financial),11123-11
+1999,Plastic Containers & Packaging,11124-28
+1999,Environmental Services (B2B),11125-00
+1999,Other Energy Services,11127-34
+1999,Publishing,11127-34
+1999,Specialty Retail,11208-16
+1999,Electrical Equipment,11302-84
+1999,"Accounting, Audit and Tax Services (B2B)",11261-44
+1999,Discovery Tools (Healthcare),11132-20
+1999,Other Commercial Services,11148-94
+1999,Other Devices and Supplies,11134-81
+1999,Wireless Service Providers,53574-04
+1999,Food Products,11143-54
+1999,Other Healthcare Services,11324-44
+1999,Machinery (B2B),11339-74
+1999,Household Appliances,53454-25
+1999,Entertainment Software,11159-74
+1999,General Purpose Semiconductors,11160-28
+1999,Education and Training Services (B2B),11283-94
+1999,Software Development Applications,11166-49
+1999,Buildings and Property,11166-58
+1999,Decision/Risk Analysis,11166-58
+1999,Consumer Finance,11173-51
+1999,Industrial Supplies and Parts,11190-70
+1999,Other Retail,11193-13
+1999,Educational and Training Services (B2C),52970-77
+1999,Laboratory Services (Healthcare),11196-82
+1999,"Other Restaurants, Hotels and Leisure",11198-62
+1999,Distributors/Wholesale,11199-79
+1999,"Movies, Music and Entertainment",54321-85
+1999,Life and Health Insurance,11211-40
+1999,Multimedia and Design Software,11212-21
+1999,Holding Companies,11223-37
+1999,Elder and Disabled Care,11247-13
+1999,Medical Records Systems,11251-81
+1999,Electronics (B2C),11252-17
+1999,Automotive Insurance,12621-34
+1999,Other Materials,11282-77
+1999,Other Hardware,11302-48
+1999,Multi-line Chemicals,11304-28
+1999,Oil and Gas Equipment,11307-52
+1999,Other Insurance,11320-48
+1999,Other Pharmaceuticals and Biotechnology,11322-28
+1999,Other Information Technology,60293-62
+1999,Industrial Chemicals,56147-77
+1999,Production (Semiconductors),161446-51
+1999,Energy Production,168915-88
+1999,Cable Service Providers,170121-88
+1999,Energy Exploration,40389-49
+1999,Other Capital Markets/Institutions,43226-11
+1999,Other Semiconductors,57371-86
+2000,Biotechnology,10215-64
+2000,Drug Delivery,11312-47
+2000,Therapeutic Devices,11150-83
+2000,Human Capital Services,14144-86
+2000,Other Commercial Services,10103-41
+2000,Private Equity,10022-14
+2000,Application Software,11105-38
+2000,Application Specific Semiconductors,11161-90
+2000,Automation/Workflow Software,11119-42
+2000,Internet Service Providers,40402-09
+2000,Logistics,11135-08
+2000,Network Management Software,11146-33
+2000,Systems and Information Management,11136-16
+2000,Telecommunications Service Providers,11159-83
+2000,Internet Retail,100534-78
+2000,Database Software,10353-97
+2000,Other Financial Services,11126-89
+2000,Business/Productivity Software,108183-97
+2000,Electronic Equipment and Instruments,10109-26
+2000,Social/Platform Software,11128-60
+2000,Clothing,13174-75
+2000,Connectivity Products,11117-44
+2000,Drug Discovery,11125-45
+2000,Enterprise Systems (Healthcare),11456-83
+2000,Other Communications and Networking,11130-04
+2000,Other Healthcare Technology Systems,51106-96
+2000,Other Services (B2C Non-Financial),53564-68
+2000,Other Software,11155-96
+2000,Wireless Communications Equipment,11000-08
+2000,BPO/Outsource Services,11275-75
+2000,Internet Software,11110-87
+2000,Life and Health Insurance,11235-16
+2000,Other Capital Markets/Institutions,10109-26
+2000,Wireless Service Providers,10660-69
+2000,Communication Software,10905-04
+2000,"Computers, Parts and Peripherals",63137-17
+2000,Discovery Tools (Healthcare),11308-78
+2000,Fiberoptic Equipment,11274-76
+2000,Media and Information Services (B2B),11168-47
+2000,Consulting Services (B2B),11124-01
+2000,Electronic Components,11311-93
+2000,Financial Software,11209-15
+2000,Hospitals/Inpatient Services,10134-73
+2000,Information Services (B2C),185194-90
+2000,IT Consulting and Outsourcing,11178-91
+2000,"Movies, Music and Entertainment",10884-43
+2000,Storage (IT),10139-41
+2000,Vertical Market Software,11124-64
+2000,Educational Software,51724-63
+2000,Energy Infrastructure,10156-69
+2000,Personal Products,10215-55
+2000,Diagnostic Equipment,10215-73
+2000,Beverages,12747-97
+2000,Pharmaceuticals,11108-98
+2000,"Broadcasting, Radio and Television",10371-16
+2000,Real Estate Services (B2C),11277-55
+2000,Security Services (B2B),11240-02
+2000,Specialized Finance,11335-96
+2000,Multimedia and Design Software,10322-56
+2000,Casinos and Gaming,10364-77
+2000,Other Business Products and Services,10381-24
+2000,Monitoring Equipment,11110-33
+2000,Elder and Disabled Care,10563-22
+2000,Distributors/Wholesale (B2C),10722-16
+2000,Agricultural Chemicals,11037-07
+2000,Educational and Training Services (B2C),124115-32
+2000,Marine,11104-21
+2000,Other IT Services,11166-76
+2000,Software Development Applications,11215-18
+2000,Electrical Equipment,11160-28
+2000,Other Commercial Products,11294-38
+2000,Specialty Retail,11320-48
+2000,Aerospace and Defense,149992-48
+2000,Cable Service Providers,42114-25
+2000,Other Equipment,11112-31
+2000,Surgical Devices,11222-02
+2000,Publishing,11852-02
+2000,Consumer Finance,11114-47
+2000,Electronics (B2C),11252-17
+2000,Legal Services (B2B),51438-79
+2000,Other Insurance,11120-41
+2000,Practice Management (Healthcare),11120-32
+2000,Clinics/Outpatient Services,54220-69
+2000,Medical Supplies,52140-79
+2000,Managed Care,11124-19
+2000,Recreational Goods,11124-28
+2000,Environmental Services (B2B),53542-36
+2000,Decision/Risk Analysis,11128-42
+2000,Horticulture,53999-38
+2000,Medical Records Systems,11168-38
+2000,Other Commercial Banks,11267-47
+2000,"Accounting, Audit and Tax Services (B2B)",11132-38
+2000,Other Retail,11132-38
+2000,Other Pharmaceuticals and Biotechnology,11132-92
+2000,General Purpose Semiconductors,11261-89
+2000,Production (Semiconductors),11141-38
+2000,Entertainment Software,11142-19
+2000,Other Healthcare Services,11324-44
+2000,Printing Services (B2B),11170-36
+2000,Other Information Technology,52384-42
+2000,Alternative Energy Equipment,11259-91
+2000,Building Products,11181-79
+2000,Forestry Processing,11188-90
+2000,Energy Traders and Brokers,11194-30
+2000,"Other Restaurants, Hotels and Leisure",11198-62
+2000,Other Semiconductors,11230-12
+2000,Food Products,11300-68
+2000,Other Consumer Non-Durables,11244-97
+2000,Property and Casualty Insurance,11249-47
+2000,Other Devices and Supplies,11251-27
+2000,Industrial Supplies and Parts,11258-29
+2000,Distributors/Wholesale,52694-47
+2000,Business Equipment and Supplies,11271-79
+2000,Education and Training Services (B2B),11274-22
+2000,Construction and Engineering,11284-48
+2000,Home Furnishings,52378-30
+2000,Asset Management,12685-51
+2000,Laboratory Services (Healthcare),11312-38
+2000,Oil and Gas Equipment,11312-92
+2000,Energy Production,11320-93
+2000,Other Consumer Durables,118879-84
+2000,Electric Utilities,56070-01
+2000,Other Containers and Packaging,25257-43
+2000,Other Media,25380-82
+2000,Brokerage,26033-86
+2000,Social Content,40430-80
+2000,Commercial/Professional Insurance,42423-76
+2000,Energy Marketing,51485-32
+2000,Catalog Retail,51566-41
+2000,Automotive,52643-71
+2000,Investment Banks,53574-04
+2000,Buildings and Property,53707-15
+2000,Other Consumer Products and Services,53802-64
+2000,Animal Husbandry,54742-51
+2000,Holding Companies,56599-57
+2000,Other Transportation,57314-80
+2001,Biotechnology,10344-70
+2001,Drug Discovery,11111-05
+2001,Human Capital Services,11124-64
+2001,Other Commercial Services,11127-88
+2001,Application Specific Semiconductors,11166-31
+2001,Automation/Workflow Software,11196-10
+2001,Business/Productivity Software,100534-78
+2001,Fiberoptic Equipment,11169-73
+2001,Network Management Software,11171-44
+2001,Systems and Information Management,11175-76
+2001,Wireless Communications Equipment,11110-87
+2001,Application Software,11116-09
+2001,Database Software,11410-66
+2001,Logistics,11181-43
+2001,Communication Software,10193-41
+2001,Media and Information Services (B2B),10353-97
+2001,Social/Platform Software,11327-41
+2001,Therapeutic Devices,11114-65
+2001,Connectivity Products,11203-21
+2001,Electronic Components,11114-74
+2001,Laboratory Services (Healthcare),11174-32
+2001,Telecommunications Service Providers,10754-47
+2001,Internet Software,54581-86
+2001,Re-Insurance,10077-85
+2001,Electronic Equipment and Instruments,11214-01
+2001,General Purpose Semiconductors,108904-69
+2001,Other IT Services,11250-10
+2001,Wireless Service Providers,11218-51
+2001,Other Software,11155-96
+2001,"Accounting, Audit and Tax Services (B2B)",11327-95
+2001,Consulting Services (B2B),179275-69
+2001,Other Communications and Networking,110820-43
+2001,Storage (IT),50901-76
+2001,Internet Retail,11263-42
+2001,Other Hardware,10134-73
+2001,Vertical Market Software,11176-84
+2001,"Accounting, Audit and Tax Services (B2C)",54058-60
+2001,Brokerage,14144-86
+2001,Distributors/Wholesale,10139-41
+2001,Internet Service Providers,11325-70
+2001,Cable Service Providers,11171-35
+2001,Financial Software,11240-02
+2001,Consumer Finance,10156-69
+2001,Electrical Equipment,11212-21
+2001,Other Commercial Products,11138-68
+2001,Personal Products,10215-55
+2001,Industrial Supplies and Parts,10405-45
+2001,Surgical Devices,11160-55
+2001,Educational and Training Services (B2C),11228-32
+2001,Diagnostic Equipment,11241-55
+2001,Pharmaceuticals,11120-68
+2001,Multimedia and Design Software,10322-56
+2001,"Broadcasting, Radio and Television",11328-40
+2001,Educational Software,11077-21
+2001,IT Consulting and Outsourcing,42841-27
+2001,Machinery (B2B),11308-60
+2001,Enterprise Systems (Healthcare),11763-55
+2001,Social Content,10458-73
+2001,Clinics/Outpatient Services,10521-46
+2001,Hotels and Resorts,10563-22
+2001,Other Healthcare,11208-70
+2001,Drug Delivery,11251-18
+2001,Energy Traders and Brokers,99092-80
+2001,Distributors/Wholesale (B2C),10883-44
+2001,Investment Banks,51084-55
+2001,Other Healthcare Services,10905-04
+2001,"Movies, Music and Entertainment",11104-57
+2001,Other Information Technology,11298-97
+2001,Electronics (B2C),11140-30
+2001,Other Services (B2C Non-Financial),11106-73
+2001,Production (Semiconductors),55773-73
+2001,BPO/Outsource Services,42246-73
+2001,Software Development Applications,11108-89
+2001,Other Equipment,11112-31
+2001,Publishing,161779-69
+2001,Medical Supplies,11197-90
+2001,Other Consumer Products and Services,11114-47
+2001,Real Estate Services (B2C),11289-25
+2001,Specialty Chemicals,11115-64
+2001,"Computers, Parts and Peripherals",11200-78
+2001,Other Healthcare Technology Systems,11264-59
+2001,Legal Services (B2B),11171-53
+2001,Security Services (B2B),11168-47
+2001,Practice Management (Healthcare),51389-83
+2001,Other Pharmaceuticals and Biotechnology,11124-28
+2001,Information Services (B2C),11237-68
+2001,Agricultural Chemicals,11127-79
+2001,Medical Records Systems,52282-99
+2001,Other Business Products and Services,11133-37
+2001,Monitoring Equipment,11197-45
+2001,Building Products,49309-12
+2001,Energy Refining,11267-29
+2001,Discovery Tools (Healthcare),11285-11
+2001,Household Appliances,11148-04
+2001,Other Semiconductors,11230-12
+2001,Other Financial Services,25264-09
+2001,Oil and Gas Equipment,11158-57
+2001,Food Products,11161-27
+2001,Asset Management,11163-70
+2001,Buildings and Property,11166-58
+2001,Printing Services (B2B),39276-28
+2001,Construction and Engineering,11235-16
+2001,Education and Training Services (B2B),42308-83
+2001,Energy Production,11174-14
+2001,Aerospace and Defense,11188-27
+2001,Entertainment Software,11184-40
+2001,Other Agriculture,11323-00
+2001,Other Devices and Supplies,11193-49
+2001,Plastic Containers & Packaging,11198-98
+2001,Life and Health Insurance,11201-77
+2001,General Merchandise Stores,11215-54
+2001,Specialty Retail,11225-89
+2001,Environmental Services (B2B),11237-14
+2001,Business Equipment and Supplies,11244-97
+2001,Other Consumer Non-Durables,11244-97
+2001,Elder and Disabled Care,11247-13
+2001,Recreational Goods,11248-57
+2001,Other Capital Markets/Institutions,11252-26
+2001,Other Energy Services,11258-29
+2001,Automotive,11258-38
+2001,Synthetic Textiles,11285-20
+2001,Multi-line Chemicals,11288-17
+2001,Decision/Risk Analysis,11302-57
+2001,Other Containers and Packaging,11324-08
+2001,Alternative Energy Equipment,11328-22
+2001,Air,11329-21
+2001,Marine,54008-11
+2001,Hospitals/Inpatient Services,224498-17
+2001,Beverages,53503-30
+2001,Operating Systems Software,54345-25
+2001,Industrial Chemicals,57571-75
+2001,Road,57829-69
+2002,Biotechnology,10884-34
+2002,Publishing,11194-39
+2002,Communication Software,11126-62
+2002,Connectivity Products,11162-17
+2002,Food Products,55502-65
+2002,Other Commercial Services,11292-85
+2002,Application Software,10355-77
+2002,Business/Productivity Software,10156-69
+2002,"Computers, Parts and Peripherals",11220-31
+2002,Database Software,10060-57
+2002,Fiberoptic Equipment,56562-85
+2002,Logistics,11181-70
+2002,Network Management Software,11117-08
+2002,Systems and Information Management,11171-35
+2002,Wireless Communications Equipment,10634-77
+2002,Electronic Components,10563-22
+2002,Therapeutic Devices,10948-78
+2002,Aerospace and Defense,12749-50
+2002,Electrical Equipment,11163-70
+2002,Other Financial Services,113122-09
+2002,Other Services (B2C Non-Financial),11123-11
+2002,Storage (IT),10985-23
+2002,Telecommunications Service Providers,11119-69
+2002,Pharmaceuticals,100761-31
+2002,Media and Information Services (B2B),10722-16
+2002,Other Communications and Networking,11114-38
+2002,Automation/Workflow Software,11110-87
+2002,Medical Supplies,42242-14
+2002,Internet Service Providers,10666-90
+2002,Other Capital Markets/Institutions,10109-26
+2002,Production (Semiconductors),11110-24
+2002,Cable Service Providers,10133-20
+2002,Monitoring Equipment,11114-65
+2002,Software Development Applications,11126-80
+2002,Application Specific Semiconductors,11129-23
+2002,Hospitals/Inpatient Services,10134-73
+2002,Consulting Services (B2B),11542-60
+2002,Financial Software,10836-19
+2002,General Purpose Semiconductors,51625-27
+2002,Managed Care,152132-41
+2002,Vertical Market Software,11176-84
+2002,IT Consulting and Outsourcing,11127-16
+2002,Other Business Products and Services,11133-37
+2002,Social/Platform Software,11212-12
+2002,Other Commercial Products,11108-44
+2002,Other Devices and Supplies,11150-83
+2002,"Broadcasting, Radio and Television",11253-52
+2002,Personal Products,11336-68
+2002,Diagnostic Equipment,11159-83
+2002,Drug Delivery,11312-47
+2002,Surgical Devices,11205-82
+2002,Automotive,11287-63
+2002,BPO/Outsource Services,10215-73
+2002,Drug Discovery,10255-69
+2002,Elder and Disabled Care,11210-41
+2002,Security Services (B2B),11168-47
+2002,Electronic Equipment and Instruments,11111-59
+2002,"Other Metals, Minerals and Mining",10381-24
+2002,Specialty Chemicals,11278-27
+2002,Casinos and Gaming,10405-45
+2002,Energy Exploration,25255-63
+2002,Other Healthcare Technology Systems,11160-55
+2002,Industrial Supplies and Parts,42304-60
+2002,Educational and Training Services (B2C),42155-83
+2002,Information Services (B2C),51500-08
+2002,Air,10754-47
+2002,Human Capital Services,10905-04
+2002,Recreational Goods,11037-07
+2002,Construction and Engineering,11104-21
+2002,Other IT Services,11170-00
+2002,Educational Software,51089-77
+2002,Other Software,11107-63
+2002,Multimedia and Design Software,11108-17
+2002,Other Information Technology,11108-98
+2002,Wireless Service Providers,11111-23
+2002,Alternative Energy Equipment,11155-51
+2002,Other Healthcare Services,11193-76
+2002,Internet Retail,26033-86
+2002,"Movies, Music and Entertainment",11216-08
+2002,Other Insurance,83938-33
+2002,Laboratory Services (Healthcare),11252-98
+2002,Operating Systems Software,11121-85
+2002,Electronics (B2C),11136-16
+2002,Medical Records Systems,11160-10
+2002,Agricultural Chemicals,42156-01
+2002,Buildings and Property,11278-36
+2002,Social Content,11126-89
+2002,Internet Software,186006-97
+2002,Decision/Risk Analysis,11253-88
+2002,Leisure Facilities,11128-60
+2002,Horticulture,11132-20
+2002,"Accounting, Audit and Tax Services (B2B)",11319-04
+2002,Thrifts and Mortgage Finance,11132-38
+2002,Real Estate Services (B2C),11133-01
+2002,Other Pharmaceuticals and Biotechnology,11239-93
+2002,Enterprise Systems (Healthcare),11296-99
+2002,Machinery (B2B),11161-36
+2002,Energy Production,11254-15
+2002,Other Semiconductors,11246-86
+2002,Printing Services (B2B),53336-62
+2002,Discovery Tools (Healthcare),11204-83
+2002,Asset Management,11169-28
+2002,Other Materials,11171-08
+2002,Legal Services (B2B),53649-82
+2002,Water Utilities,51431-41
+2002,Specialized Finance,11198-62
+2002,Other Consumer Products and Services,11217-61
+2002,Beverages,11231-38
+2002,Education and Training Services (B2B),52248-52
+2002,Environmental Services (B2B),11238-04
+2002,Building Products,11241-19
+2002,Consumer Finance,11244-52
+2002,Clinics/Outpatient Services,11266-84
+2002,Other Chemicals and Gases,11278-54
+2002,Practice Management (Healthcare),52565-05
+2002,Synthetic Textiles,11285-20
+2002,Plastic Containers & Packaging,11288-71
+2002,Wood/Hard Products,11300-68
+2002,Aquaculture,11312-92
+2002,Entertainment Software,56752-21
+2002,Cultivation,11327-32
+2002,Industrial Chemicals,11328-58
+2002,Marine,51020-65
+2002,Multi-line Insurance,11333-44
+2002,Other Textiles,11334-61
+2002,Office Services (B2B),11605-96
+2002,Other Consumer Durables,12697-75
+2002,Other Energy,41771-53
+2002,Commercial/Professional Insurance,42384-25
+2002,Energy Storage,52166-62
+2002,Regional Banks,51257-26
+2002,Oil and Gas Equipment,52153-84
+2002,Distributors/Wholesale (B2C),53539-21
+2002,Other Hardware,53622-55
+2002,Other Agriculture,53664-31
+2002,Other Equipment,61211-89
+2002,Home Furnishings,65738-17
+2003,Drug Discovery,11204-83
+2003,Other Communications and Networking,11155-42
+2003,Other Information Technology,52200-28
+2003,Pharmaceuticals,10228-51
+2003,Therapeutic Devices,11133-37
+2003,Discovery Tools (Healthcare),11132-92
+2003,Electronics (B2C),11140-30
+2003,Other Semiconductors,11203-03
+2003,Application Software,11116-09
+2003,Application Specific Semiconductors,11201-23
+2003,Automation/Workflow Software,11121-49
+2003,"Broadcasting, Radio and Television",10563-22
+2003,"Computers, Parts and Peripherals",11167-93
+2003,Connectivity Products,11150-29
+2003,Database Software,11137-87
+2003,Entertainment Software,11184-40
+2003,Environmental Services (B2B),11140-12
+2003,General Purpose Semiconductors,11199-52
+2003,Logistics,11274-40
+2003,Network Management Software,10353-97
+2003,Systems and Information Management,11110-96
+2003,Telecommunications Service Providers,11151-19
+2003,IT Consulting and Outsourcing,11291-32
+2003,Thrifts and Mortgage Finance,10060-57
+2003,Electronic Components,11128-33
+2003,Electronic Equipment and Instruments,11269-99
+2003,Other Commercial Services,11110-60
+2003,Business/Productivity Software,11182-96
+2003,Clinics/Outpatient Services,10070-83
+2003,Communication Software,11260-63
+2003,Internet Service Providers,54521-47
+2003,Production (Semiconductors),11107-45
+2003,Wireless Communications Equipment,11129-32
+2003,Machinery (B2B),11322-55
+2003,Managed Care,10077-85
+2003,Media and Information Services (B2B),11120-32
+2003,Monitoring Equipment,11097-01
+2003,Medical Supplies,10660-69
+2003,Electrical Equipment,10454-68
+2003,Multimedia and Design Software,11128-69
+2003,Storage (IT),10985-23
+2003,Wireless Service Providers,11111-23
+2003,Security Services (B2B),11160-28
+2003,Social/Platform Software,11113-84
+2003,Software Development Applications,12749-50
+2003,Financial Software,11158-12
+2003,Human Capital Services,11160-37
+2003,Other Devices and Supplies,11162-44
+2003,Other IT Services,11167-03
+2003,Vertical Market Software,11199-97
+2003,Consulting Services (B2B),11127-34
+2003,Internet Retail,11260-18
+2003,Specialty Retail,11198-35
+2003,Building Products,60924-16
+2003,Other Software,11107-63
+2003,Education and Training Services (B2B),10155-07
+2003,Biotechnology,11136-34
+2003,Multi-line Chemicals,10156-69
+2003,Fiberoptic Equipment,10411-93
+2003,Other Commercial Products,11147-77
+2003,Surgical Devices,11111-05
+2003,Office Electronics,10195-75
+2003,Food Products,10215-55
+2003,Printing Services (B2B),11179-63
+2003,Diagnostic Equipment,11239-93
+2003,Laboratory Services (Healthcare),121282-57
+2003,Agricultural Chemicals,10630-27
+2003,"Movies, Music and Entertainment",11120-41
+2003,Industrial Chemicals,10416-88
+2003,Information Services (B2C),11285-02
+2003,Distributors (Healthcare),10458-73
+2003,Cable Service Providers,11165-68
+2003,Other Hardware,10618-12
+2003,Water Utilities,40451-14
+2003,Educational and Training Services (B2C),11114-56
+2003,Other Healthcare,11110-78
+2003,Publishing,52559-83
+2003,Internet Software,108253-18
+2003,Other Healthcare Technology Systems,11297-17
+2003,Plastic Containers & Packaging,10914-67
+2003,Leisure Facilities,10948-78
+2003,Drug Delivery,11231-38
+2003,Distributors/Wholesale,224498-17
+2003,Practice Management (Healthcare),11104-57
+2003,Other Financial Services,11105-74
+2003,Other Services (B2C Non-Financial),11106-73
+2003,Enterprise Systems (Healthcare),11217-25
+2003,Life and Health Insurance,11110-33
+2003,Air,11110-42
+2003,Energy Exploration,11110-87
+2003,Other Energy Services,11110-87
+2003,Specialized Finance,14632-93
+2003,Other Equipment,11112-31
+2003,Other Consumer Products and Services,11129-59
+2003,Other Pharmaceuticals and Biotechnology,53411-68
+2003,Other Agriculture,11118-25
+2003,Legal Services (B2B),11118-79
+2003,Energy Transportation,11119-69
+2003,Specialty Chemicals,11258-29
+2003,Aerospace and Defense,11289-25
+2003,BPO/Outsource Services,11316-25
+2003,Elder and Disabled Care,11126-89
+2003,Consumer Finance,11178-37
+2003,Asset Management,12621-34
+2003,Other Apparel,11127-88
+2003,Other Commercial Banks,11132-20
+2003,Alternative Energy Equipment,11158-57
+2003,Other Healthcare Services,11164-15
+2003,Medical Records Systems,11160-10
+2003,Energy Refining,11143-54
+2003,Energy Production,163235-08
+2003,Energy Storage,11156-32
+2003,Hospitals/Inpatient Services,11158-48
+2003,Other Consumer Durables,50913-46
+2003,Recreational Goods,42775-48
+2003,Social Content,11166-58
+2003,Industrial Supplies and Parts,41009-86
+2003,Household Appliances,47291-95
+2003,Forestry Development/Harvesting,11188-90
+2003,Business Equipment and Supplies,11201-95
+2003,Decision/Risk Analysis,11338-84
+2003,Other Business Products and Services,11244-34
+2003,"Accounting, Audit and Tax Services (B2B)",11248-21
+2003,Educational Software,11286-01
+2003,Other Energy,11271-79
+2003,Real Estate Services (B2C),11278-45
+2003,Catalog Retail,11304-73
+2003,Automotive,11326-60
+2003,Cultivation,11327-32
+2003,Horticulture,55907-38
+2003,Holding Companies,41762-98
+2003,Other Insurance,42384-25
+2003,Restaurants and Bars,44792-56
+2003,Brokerage,52272-28
+2003,"Other Metals, Minerals and Mining",52357-78
+2003,Real Estate Investment Trusts (REITs),52925-23
+2003,Construction and Engineering,56613-43
+2003,Beverages,65813-23
+2004,Application Software,10948-78
+2004,Application Specific Semiconductors,11265-31
+2004,Biotechnology,108183-97
+2004,Consulting Services (B2B),120887-65
+2004,Drug Delivery,42305-95
+2004,Drug Discovery,11153-44
+2004,Other Commercial Products,11161-27
+2004,Other Commercial Services,11194-30
+2004,Automation/Workflow Software,11196-19
+2004,Network Management Software,11117-44
+2004,Therapeutic Devices,11148-94
+2004,Surgical Devices,11158-39
+2004,Business/Productivity Software,10388-53
+2004,Connectivity Products,11137-69
+2004,Electronic Components,11122-21
+2004,Financial Software,11113-03
+2004,General Purpose Semiconductors,10382-41
+2004,Other Communications and Networking,111357-01
+2004,Security Services (B2B),11456-83
+2004,Telecommunications Service Providers,11119-69
+2004,Vertical Market Software,11115-64
+2004,Database Software,11110-06
+2004,Logistics,14784-13
+2004,Other Financial Services,10449-01
+2004,Electronic Equipment and Instruments,10594-72
+2004,Information Services (B2C),11156-59
+2004,Software Development Applications,52744-87
+2004,Alternative Energy Equipment,10618-12
+2004,Communication Software,11126-17
+2004,Electrical Equipment,11223-55
+2004,Enterprise Systems (Healthcare),11168-92
+2004,IT Consulting and Outsourcing,56226-79
+2004,Laboratory Services (Healthcare),11291-32
+2004,Other Healthcare Services,11164-15
+2004,Other Services (B2C Non-Financial),53564-68
+2004,Wireless Communications Equipment,107627-50
+2004,Wireless Service Providers,11230-12
+2004,BPO/Outsource Services,11193-76
+2004,Human Capital Services,10263-16
+2004,Multimedia and Design Software,11138-77
+2004,Systems and Information Management,11111-23
+2004,Pharmaceuticals,11140-03
+2004,Other Software,11202-04
+2004,Production (Semiconductors),52372-18
+2004,Social/Platform Software,11304-73
+2004,Storage (IT),11336-77
+2004,"Broadcasting, Radio and Television",11208-16
+2004,Industrial Supplies and Parts,11174-14
+2004,Internet Software,11306-62
+2004,Media and Information Services (B2B),11107-90
+2004,"Accounting, Audit and Tax Services (B2B)",11260-18
+2004,Decision/Risk Analysis,11159-29
+2004,Other Hardware,11170-63
+2004,Consumer Finance,11275-75
+2004,Publishing,10281-70
+2004,Elder and Disabled Care,11126-89
+2004,Fiberoptic Equipment,11122-48
+2004,Internet Service Providers,42283-18
+2004,Operating Systems Software,54345-25
+2004,Other Semiconductors,11188-27
+2004,"Computers, Parts and Peripherals",109340-20
+2004,Construction and Engineering,56040-58
+2004,Diagnostic Equipment,11111-41
+2004,Other Information Technology,11157-94
+2004,Other IT Services,11169-73
+2004,Internet Retail,10155-07
+2004,Aerospace and Defense,52326-01
+2004,Educational Software,11263-78
+2004,Food Products,106900-39
+2004,Other Consumer Durables,10215-73
+2004,Managed Care,10228-51
+2004,Medical Supplies,11238-04
+2004,Monitoring Equipment,11296-90
+2004,Personal Products,10241-02
+2004,Machinery (B2B),111257-20
+2004,Medical Records Systems,159905-98
+2004,Accessories,50906-26
+2004,Brokerage,10271-98
+2004,Educational and Training Services (B2C),60901-93
+2004,Social Content,11191-87
+2004,Casinos and Gaming,10306-18
+2004,Other Consumer Non-Durables,10335-25
+2004,Discovery Tools (Healthcare),11177-02
+2004,Electronics (B2C),11106-19
+2004,Other Healthcare Technology Systems,11151-10
+2004,Entertainment Software,11184-40
+2004,"Other Restaurants, Hotels and Leisure",10563-22
+2004,Life and Health Insurance,10639-63
+2004,Other Equipment,41021-92
+2004,Restaurants and Bars,10675-72
+2004,Air,10754-47
+2004,"Movies, Music and Entertainment",11323-90
+2004,Other Devices and Supplies,11208-34
+2004,Clothing,56271-25
+2004,Cable Service Providers,53460-37
+2004,Energy Marketing,11110-87
+2004,Specialized Finance,11111-68
+2004,Business Equipment and Supplies,11111-86
+2004,Beverages,11194-39
+2004,Other Business Products and Services,11289-79
+2004,Recreational Goods,53421-49
+2004,Water Utilities,11115-01
+2004,Other Retail,112168-45
+2004,Other Pharmaceuticals and Biotechnology,11132-92
+2004,Agricultural Chemicals,11984-32
+2004,Leisure Facilities,11195-56
+2004,Specialty Retail,11167-03
+2004,Asset Management,11133-01
+2004,Distributors/Wholesale,11134-90
+2004,Other Insurance,11135-71
+2004,Insurance Brokers,11143-54
+2004,Energy Storage,52947-10
+2004,Other Energy Services,11155-51
+2004,Industrial Chemicals,11156-32
+2004,Legal Services (B2B),11157-76
+2004,Oil and Gas Equipment,11307-52
+2004,Clinics/Outpatient Services,11266-84
+2004,Energy Production,51099-22
+2004,Printing Services (B2B),11172-61
+2004,Automotive,51730-30
+2004,Other Transportation,11175-94
+2004,Other Capital Markets/Institutions,11181-34
+2004,Specialty Chemicals,11193-40
+2004,Office Services (B2B),53512-30
+2004,Electric Utilities,11218-51
+2004,Other Media,11237-50
+2004,Other Chemicals and Gases,11250-10
+2004,Practice Management (Healthcare),55695-25
+2004,Building Products,12686-41
+2004,Education and Training Services (B2B),11261-98
+2004,Hospitals/Inpatient Services,11278-36
+2004,Other Containers and Packaging,11328-49
+2004,Distributors/Wholesale (B2C),11286-28
+2004,Energy Exploration,11290-87
+2004,Household Appliances,11295-82
+2004,Home Furnishings,11301-49
+2004,Real Estate Services (B2C),56595-16
+2004,Other Healthcare,11304-28
+2004,Automotive Insurance,11305-45
+2004,Other Consumer Products and Services,11306-71
+2004,Cultivation,54741-88
+2004,Other Agriculture,11338-03
+2004,Paper/Soft Products,40451-14
+2004,Horticulture,53999-38
+2004,Holding Companies,42427-09
+2004,"Other Metals, Minerals and Mining",42465-43
+2004,Environmental Services (B2B),44791-39
+2004,Other Commercial Banks,58591-90
+2005,Application Specific Semiconductors,11150-29
+2005,Biotechnology,10420-66
+2005,"Computers, Parts and Peripherals",11314-45
+2005,Drug Discovery,10522-18
+2005,Other Healthcare Technology Systems,52991-29
+2005,Business/Productivity Software,10524-79
+2005,Electronics (B2C),11106-19
+2005,Other Commercial Services,11124-91
+2005,Other Semiconductors,10022-14
+2005,Alternative Energy Equipment,11113-84
+2005,Application Software,10745-11
+2005,Automation/Workflow Software,11107-45
+2005,"Broadcasting, Radio and Television",11149-30
+2005,Connectivity Products,109500-58
+2005,Database Software,51653-62
+2005,Entertainment Software,11184-40
+2005,General Purpose Semiconductors,11169-46
+2005,Logistics,11181-70
+2005,"Movies, Music and Entertainment",11286-28
+2005,Other Communications and Networking,10634-77
+2005,Other Consumer Durables,10052-20
+2005,Other Hardware,11174-14
+2005,Other Healthcare Services,11137-42
+2005,Systems and Information Management,11159-29
+2005,Vertical Market Software,11112-58
+2005,Asset Management,10060-57
+2005,Electronic Components,11150-11
+2005,Electronic Equipment and Instruments,11178-46
+2005,Network Management Software,11117-44
+2005,Other IT Services,11260-18
+2005,Publishing,110331-10
+2005,Clothing,57987-37
+2005,Communication Software,11151-28
+2005,Electrical Equipment,11119-15
+2005,Fiberoptic Equipment,11188-27
+2005,Media and Information Services (B2B),10948-78
+2005,Other Business Products and Services,51524-47
+2005,Wireless Communications Equipment,11127-07
+2005,Internet Software,53967-52
+2005,IT Consulting and Outsourcing,11711-17
+2005,Multimedia and Design Software,11550-52
+2005,Recreational Goods,10077-85
+2005,Wireless Service Providers,170795-08
+2005,Other Software,10102-42
+2005,Restaurants and Bars,10103-41
+2005,Environmental Services (B2B),10640-26
+2005,Monitoring Equipment,11266-39
+2005,Other Capital Markets/Institutions,10109-26
+2005,Pharmaceuticals,10883-44
+2005,Social Content,10109-26
+2005,Storage (IT),41747-05
+2005,Internet Retail,11301-31
+2005,Security Services (B2B),10581-94
+2005,Software Development Applications,11115-73
+2005,Drug Delivery,11119-69
+2005,Financial Software,11175-49
+2005,Hotels and Resorts,10134-73
+2005,Information Services (B2C),11241-19
+2005,Internet Service Providers,52765-57
+2005,Production (Semiconductors),53975-26
+2005,Social/Platform Software,11181-34
+2005,Brokerage,10135-81
+2005,Consulting Services (B2B),53512-30
+2005,Consumer Finance,56516-41
+2005,Educational Software,42134-05
+2005,Medical Records Systems,50993-92
+2005,Real Estate Services (B2C),14146-84
+2005,Surgical Devices,11222-02
+2005,BPO/Outsource Services,40118-05
+2005,Practice Management (Healthcare),10155-07
+2005,Multi-line Chemicals,10156-69
+2005,Other Commercial Products,11169-73
+2005,Aerospace and Defense,11336-05
+2005,Other Devices and Supplies,51480-28
+2005,Telecommunications Service Providers,11238-76
+2005,Therapeutic Devices,11160-55
+2005,Office Electronics,10195-75
+2005,Food Products,52714-81
+2005,Diagnostic Equipment,11218-51
+2005,Other Consumer Non-Durables,11196-73
+2005,Printing Services (B2B),52806-34
+2005,Laboratory Services (Healthcare),11312-38
+2005,Other Chemicals and Gases,10381-24
+2005,Precious Metals and Minerals Mining,10381-24
+2005,National Banks,10405-45
+2005,Discovery Tools (Healthcare),51038-29
+2005,Educational and Training Services (B2C),12429-28
+2005,Industrial Supplies and Parts,40380-22
+2005,Insurance Brokers,10458-73
+2005,Clinics/Outpatient Services,11294-92
+2005,Leisure Facilities,112168-45
+2005,"Other Restaurants, Hotels and Leisure",56786-32
+2005,Water Utilities,10618-12
+2005,Business Equipment and Supplies,10630-27
+2005,Life and Health Insurance,11235-16
+2005,Other Healthcare,43117-48
+2005,Other Equipment,11175-94
+2005,Other Financial Services,40849-84
+2005,Construction and Engineering,11958-04
+2005,Hospitals/Inpatient Services,11104-03
+2005,Cable Service Providers,11248-12
+2005,Beverages,167221-81
+2005,Other Information Technology,11200-69
+2005,Holding Companies,11108-17
+2005,Specialty Retail,55789-12
+2005,Automotive,43058-08
+2005,Energy Exploration,226941-67
+2005,Enterprise Systems (Healthcare),11165-68
+2005,Other Consumer Products and Services,11114-47
+2005,"Other Metals, Minerals and Mining",11114-92
+2005,Other Pharmaceuticals and Biotechnology,11266-03
+2005,Building Products,60901-93
+2005,Decision/Risk Analysis,11118-79
+2005,Energy Production,25255-63
+2005,Other Services (B2C Non-Financial),11135-35
+2005,Specialty Chemicals,11278-27
+2005,Human Capital Services,11198-62
+2005,"Accounting, Audit and Tax Services (B2B)",11132-38
+2005,Distributors/Wholesale,119667-97
+2005,Legal Services (B2B),11133-01
+2005,Agricultural Chemicals,11134-81
+2005,Medical Supplies,11188-63
+2005,Office Services (B2B),11136-16
+2005,Other Energy,11141-38
+2005,Distributors (Healthcare),11147-05
+2005,Machinery (B2B),123178-15
+2005,Energy Storage,11156-32
+2005,Specialized Finance,11156-41
+2005,Home Furnishings,11166-58
+2005,Other Media,54221-68
+2005,Personal Products,11170-81
+2005,Buildings and Property,11208-79
+2005,Cultivation,11216-53
+2005,Aluminum Mining,11220-04
+2005,Other Agriculture,11225-44
+2005,Education and Training Services (B2B),91701-10
+2005,Air,11237-68
+2005,Managed Care,11456-92
+2005,Synthetic Textiles,11253-88
+2005,Elder and Disabled Care,11278-00
+2005,Automotive Insurance,11305-45
+2005,Operating Systems Software,55460-08
+2005,Plastic Containers & Packaging,11326-24
+2005,Other Energy Services,11329-12
+2005,Coal and Consumable Fuels Equipment,161815-69
+2005,Industrial Chemicals,152170-84
+2005,Energy Infrastructure,158788-36
+2005,Energy Transportation,161443-45
+2005,Horticulture,40822-84
+2005,Investment Banks,41693-68
+2005,Thrifts and Mortgage Finance,42340-15
+2005,Oil and Gas Equipment,54172-63
+2005,Forestry Development/Harvesting,52697-53
+2005,Energy Refining,52753-96
+2005,Commodity Chemicals,53366-41
+2005,Animal Husbandry,54742-51
+2005,Aquaculture,54944-83
+2005,Catalog Retail,55123-21
+2005,Other Materials,56151-28
+2005,Paper Containers & Packaging,60096-88
+2006,Laboratory Services (Healthcare),100035-19
+2006,Application Software,11147-68
+2006,Biotechnology,10884-43
+2006,Drug Delivery,11140-84
+2006,Drug Discovery,10884-34
+2006,Media and Information Services (B2B),111065-23
+2006,Other Commercial Services,11200-42
+2006,Other Information Technology,40845-43
+2006,Publishing,10411-93
+2006,Automation/Workflow Software,11274-67
+2006,Consulting Services (B2B),11177-02
+2006,Electronic Components,11157-58
+2006,Enterprise Systems (Healthcare),11302-84
+2006,Medical Supplies,11322-55
+2006,Industrial Supplies and Parts,100470-79
+2006,Aerospace and Defense,10052-20
+2006,Business/Productivity Software,10660-69
+2006,Connectivity Products,100761-31
+2006,Elder and Disabled Care,11120-32
+2006,Energy Storage,61508-98
+2006,Environmental Services (B2B),10640-26
+2006,Financial Software,11251-27
+2006,General Purpose Semiconductors,11156-95
+2006,Information Services (B2C),11263-15
+2006,Internet Service Providers,11275-75
+2006,Logistics,11122-48
+2006,Other Commercial Products,11147-77
+2006,Other Consumer Durables,11028-16
+2006,Other Healthcare Services,11193-49
+2006,Systems and Information Management,11310-85
+2006,Vertical Market Software,11112-58
+2006,Database Software,11150-29
+2006,Other IT Services,100644-04
+2006,Software Development Applications,42861-25
+2006,Alternative Energy Equipment,11237-14
+2006,Application Specific Semiconductors,11107-45
+2006,Cable Service Providers,42906-61
+2006,Clothing,57987-37
+2006,Electrical Equipment,11163-70
+2006,Fiberoptic Equipment,11251-09
+2006,Internet Retail,11304-73
+2006,Internet Software,51573-16
+2006,"Movies, Music and Entertainment",11215-72
+2006,Multimedia and Design Software,10357-03
+2006,Network Management Software,10353-97
+2006,Other Communications and Networking,11130-04
+2006,Other Software,51505-39
+2006,Social/Platform Software,11157-76
+2006,Therapeutic Devices,11194-48
+2006,Wireless Communications Equipment,11115-19
+2006,Communication Software,109500-58
+2006,Automotive,10630-27
+2006,Brokerage,10109-26
+2006,Construction and Engineering,40823-29
+2006,Electronic Equipment and Instruments,11326-15
+2006,Electronics (B2C),11140-30
+2006,Social Content,42771-34
+2006,Storage (IT),163274-95
+2006,Surgical Devices,10339-93
+2006,Entertainment Software,11117-44
+2006,Other Business Products and Services,10524-79
+2006,"Accounting, Audit and Tax Services (B2B)",10133-20
+2006,Industrial Chemicals,51257-26
+2006,Specialized Finance,14632-93
+2006,Energy Production,11227-60
+2006,Food Products,109332-64
+2006,IT Consulting and Outsourcing,11232-55
+2006,Other Devices and Supplies,42833-98
+2006,Other Financial Services,11290-78
+2006,Production (Semiconductors),11311-75
+2006,Wireless Service Providers,11166-40
+2006,Consumer Finance,109611-01
+2006,Other Capital Markets/Institutions,55787-59
+2006,Specialty Retail,10139-41
+2006,"Broadcasting, Radio and Television",11164-15
+2006,Clinics/Outpatient Services,10481-32
+2006,"Computers, Parts and Peripherals",43011-19
+2006,Other Semiconductors,11183-68
+2006,Personal Products,11307-07
+2006,Real Estate Services (B2C),56199-52
+2006,Telecommunications Service Providers,51446-26
+2006,Coal and Consumable Fuels Equipment,10156-69
+2006,Other Hardware,122063-50
+2006,Pharmaceuticals,10522-18
+2006,Office Electronics,42925-33
+2006,Asset Management,54173-98
+2006,Other Healthcare Technology Systems,54247-06
+2006,Energy Exploration,11158-12
+2006,Restaurants and Bars,115260-76
+2006,Holding Companies,58215-70
+2006,Diagnostic Equipment,10449-01
+2006,Monitoring Equipment,11110-60
+2006,Other Pharmaceuticals and Biotechnology,168672-52
+2006,Specialty Chemicals,11252-17
+2006,"Other Metals, Minerals and Mining",10381-24
+2006,Recreational Goods,10388-53
+2006,Beverages,53803-99
+2006,BPO/Outsource Services,11178-46
+2006,Discovery Tools (Healthcare),14777-20
+2006,Oil and Gas Equipment,14162-32
+2006,Human Capital Services,11263-78
+2006,Re-Insurance,10458-73
+2006,Operating Systems Software,10521-46
+2006,Security Services (B2B),41706-10
+2006,Leisure Facilities,63245-44
+2006,Machinery (B2B),11198-98
+2006,Electric Utilities,10804-33
+2006,Road,13458-97
+2006,Legal Services (B2B),11104-57
+2006,Distributors/Wholesale,11200-69
+2006,Other Media,54204-94
+2006,Other Energy Services,54041-86
+2006,Educational Software,11111-59
+2006,Other Healthcare,52959-43
+2006,Agricultural Chemicals,11115-01
+2006,Other Materials,11115-46
+2006,Building Products,11254-96
+2006,Animal Husbandry,161030-62
+2006,Other Services (B2C Non-Financial),56769-67
+2006,Other Equipment,11128-33
+2006,Home Furnishings,57314-80
+2006,Accessories,11216-80
+2006,Legal Services (B2C),11133-01
+2006,Educational and Training Services (B2C),54808-30
+2006,Other Forestry,11143-54
+2006,Private Equity,61094-53
+2006,Other Consumer Products and Services,11158-57
+2006,Other Containers and Packaging,11163-88
+2006,Raw Materials (Non-Wood),87895-09
+2006,Medical Records Systems,11168-38
+2006,"Other Restaurants, Hotels and Leisure",11170-81
+2006,Other Transportation,11175-94
+2006,Printing Services (B2B),11274-22
+2006,Practice Management (Healthcare),52195-24
+2006,Other Agriculture,52324-12
+2006,Distributors (Healthcare),11192-41
+2006,Life and Health Insurance,167489-20
+2006,Distributors/Wholesale (B2C),11212-12
+2006,Cultivation,60224-50
+2006,Water Utilities,39895-30
+2006,Air,11781-73
+2006,Hotels and Resorts,11238-04
+2006,Precious Metals and Minerals Mining,11239-12
+2006,Footwear,11240-38
+2006,Property and Casualty Insurance,52589-98
+2006,Plastic Containers & Packaging,11288-71
+2006,Other Retail,11295-10
+2006,Other Insurance,11303-11
+2006,Aquaculture,57296-08
+2006,Household Appliances,11318-05
+2006,Education and Training Services (B2B),11338-03
+2006,General Merchandise Stores,52947-19
+2006,Other Chemicals and Gases,57305-08
+2006,Hospitals/Inpatient Services,224498-17
+2006,Managed Care,54127-63
+2006,Decision/Risk Analysis,42300-10
+2006,Energy Traders and Brokers,51781-42
+2006,Commodity Chemicals,53290-90
+2006,Wood/Hard Products,58006-54
+2006,Casinos and Gaming,54942-40
+2006,Marine,55802-35
+2006,Investment Banks,56780-92
+2006,Paper Containers & Packaging,60345-46
+2006,Energy Infrastructure,64340-74
+2007,Energy Production,100105-93
+2007,Application Specific Semiconductors,11230-12
+2007,Biotechnology,100470-79
+2007,"Computers, Parts and Peripherals",109340-20
+2007,Distributors/Wholesale,167647-87
+2007,Other Commercial Services,10103-41
+2007,Surgical Devices,11190-25
+2007,Systems and Information Management,11196-73
+2007,Business/Productivity Software,11105-65
+2007,Communication Software,11199-97
+2007,Drug Discovery,11154-43
+2007,Electronic Equipment and Instruments,11170-36
+2007,Enterprise Systems (Healthcare),11297-44
+2007,Internet Software,51253-84
+2007,Network Management Software,107033-14
+2007,Other Healthcare Technology Systems,61211-89
+2007,Other Semiconductors,11159-29
+2007,Other Software,11106-01
+2007,Aerospace and Defense,52173-28
+2007,Alternative Energy Equipment,10398-97
+2007,Application Software,10532-80
+2007,Asset Management,53281-27
+2007,Cable Service Providers,42252-85
+2007,Connectivity Products,11115-64
+2007,Entertainment Software,11175-49
+2007,Fiberoptic Equipment,11211-94
+2007,Financial Software,11172-43
+2007,General Purpose Semiconductors,11220-31
+2007,Internet Service Providers,168558-13
+2007,Other Financial Services,42968-17
+2007,Other Services (B2C Non-Financial),11135-35
+2007,Security Services (B2B),11252-26
+2007,Social Content,11260-09
+2007,Storage (IT),11116-00
+2007,Telecommunications Service Providers,11273-86
+2007,Water Utilities,11233-54
+2007,Wireless Communications Equipment,111357-01
+2007,IT Consulting and Outsourcing,10060-57
+2007,Electronic Components,11183-68
+2007,Electronics (B2C),11186-92
+2007,Media and Information Services (B2B),11276-29
+2007,Printing Services (B2B),10068-04
+2007,Beverages,50906-26
+2007,Clothing,55502-65
+2007,Database Software,11158-30
+2007,Electrical Equipment,11124-91
+2007,Internet Retail,14533-66
+2007,Other Business Products and Services,55516-87
+2007,Other Communications and Networking,11203-03
+2007,Other Healthcare Services,11258-29
+2007,Other Materials,51756-04
+2007,Other Media,11237-50
+2007,Pharmaceuticals,11137-87
+2007,Social/Platform Software,108358-57
+2007,Construction and Engineering,42134-05
+2007,Information Services (B2C),111727-99
+2007,"Movies, Music and Entertainment",124942-24
+2007,Vertical Market Software,11137-69
+2007,Wireless Service Providers,11392-75
+2007,Automation/Workflow Software,11121-49
+2007,Automotive,157001-05
+2007,Educational Software,10388-53
+2007,Energy Storage,52575-67
+2007,Industrial Chemicals,11248-21
+2007,Other Consumer Durables,119020-51
+2007,Private Equity,11302-84
+2007,Publishing,50987-89
+2007,Road,11127-88
+2007,Industrial Supplies and Parts,11211-76
+2007,Multimedia and Design Software,11114-92
+2007,"Broadcasting, Radio and Television",11185-84
+2007,Energy Refining,40389-49
+2007,Educational and Training Services (B2C),55505-08
+2007,Machinery (B2B),51733-00
+2007,Multi-line Insurance,10134-73
+2007,Production (Semiconductors),11227-60
+2007,Therapeutic Devices,10804-33
+2007,BPO/Outsource Services,51032-62
+2007,Consulting Services (B2B),11242-27
+2007,Consumer Finance,109611-01
+2007,Logistics,11194-30
+2007,Medical Records Systems,11269-90
+2007,Hotels and Resorts,11149-30
+2007,Real Estate Services (B2C),10139-41
+2007,Restaurants and Bars,10675-72
+2007,Human Capital Services,10481-32
+2007,Insurance Brokers,65937-34
+2007,Other Information Technology,50893-66
+2007,Building Products,57245-59
+2007,Other IT Services,11105-74
+2007,Software Development Applications,11303-47
+2007,Other Commercial Products,11116-09
+2007,Other Hardware,53740-36
+2007,Food Products,11169-91
+2007,Diagnostic Equipment,11147-50
+2007,Discovery Tools (Healthcare),51038-29
+2007,Drug Delivery,11125-18
+2007,Laboratory Services (Healthcare),53369-29
+2007,Medical Supplies,11158-48
+2007,Personal Products,11222-02
+2007,Agricultural Chemicals,52242-13
+2007,Leisure Facilities,60341-23
+2007,Oil and Gas Equipment,52604-65
+2007,Other Devices and Supplies,52382-44
+2007,Holding Companies,109480-51
+2007,Plastic Containers & Packaging,11115-01
+2007,Footwear,10365-13
+2007,Other Pharmaceuticals and Biotechnology,42389-74
+2007,"Accounting, Audit and Tax Services (B2B)",98783-56
+2007,Other Commercial Banks,10405-45
+2007,Clinics/Outpatient Services,54556-12
+2007,Hospitals/Inpatient Services,11166-76
+2007,Air,153992-26
+2007,Other Equipment,11175-94
+2007,Specialized Finance,11152-27
+2007,Environmental Services (B2B),11141-65
+2007,Practice Management (Healthcare),12075-22
+2007,Education and Training Services (B2B),158804-38
+2007,Specialty Retail,11114-38
+2007,Monitoring Equipment,14777-02
+2007,Household Products,11118-25
+2007,Decision/Risk Analysis,53360-02
+2007,Managed Care,52184-71
+2007,Regional Banks,11201-23
+2007,Elder and Disabled Care,11120-32
+2007,Recreational Goods,11122-48
+2007,Department Stores,11129-86
+2007,Casinos and Gaming,11131-03
+2007,Distributors (Healthcare),11132-20
+2007,Legal Services (B2C),11133-01
+2007,"Other Restaurants, Hotels and Leisure",56141-11
+2007,Other Energy,42344-47
+2007,Accessories,11187-82
+2007,Other Agriculture,52348-42
+2007,Other Forestry,11143-54
+2007,Other Energy Services,11310-85
+2007,Metal Containers & Packaging,52596-01
+2007,"Other Metals, Minerals and Mining",52798-24
+2007,Other Capital Markets/Institutions,11181-34
+2007,Coal and Consumable Fuels Equipment,11186-83
+2007,Energy Exploration,158788-36
+2007,National Banks,11188-90
+2007,Other Chemicals and Gases,11198-71
+2007,Other Transportation,11204-20
+2007,Legal Services (B2B),11208-43
+2007,Outcome Management (Healthcare),11212-12
+2007,Other Consumer Products and Services,11215-54
+2007,Other Healthcare,11215-63
+2007,Property and Casualty Insurance,11270-53
+2007,Other Retail,52540-66
+2007,Animal Husbandry,11220-67
+2007,Energy Infrastructure,55954-27
+2007,Wood/Hard Products,11230-66
+2007,Operating Systems Software,51000-49
+2007,Other Insurance,83336-23
+2007,Thrifts and Mortgage Finance,11242-54
+2007,Specialty Chemicals,11247-13
+2007,Synthetic Textiles,11253-88
+2007,Horticulture,11254-42
+2007,Distributors/Wholesale (B2C),52373-26
+2007,Life and Health Insurance,52385-59
+2007,Gold Mining,11295-01
+2007,Other Containers and Packaging,56257-39
+2007,Cultivation,11330-29
+2007,General Merchandise Stores,11451-61
+2007,Paper Containers & Packaging,118879-84
+2007,Coal Mining,13175-92
+2007,Office Services (B2B),42329-53
+2007,Home Furnishings,57053-80
+2007,Electric Utilities,50933-17
+2007,Household Appliances,51490-72
+2007,Marine,53290-90
+2007,Precious Metals and Minerals Mining,53707-15
+2007,Aquaculture,55670-23
+2007,Office Electronics,55763-65
+2007,Infrastructure,62353-54
+2007,Brokerage,63577-45
+2007,Raw Materials (Non-Wood),65255-32
+2007,Multi-Utilities,99835-03
+2008,Business/Productivity Software,100035-19
+2008,Building Products,100092-16
+2008,Construction and Engineering,100147-96
+2008,Biotechnology,10884-34
+2008,Drug Discovery,110989-09
+2008,Other Commercial Services,112285-72
+2008,Systems and Information Management,11217-25
+2008,Application Software,11165-86
+2008,Communication Software,11179-00
+2008,Electronics (B2C),52976-71
+2008,Media and Information Services (B2B),102476-98
+2008,Network Management Software,11105-65
+2008,Social/Platform Software,11200-42
+2008,Vertical Market Software,14179-87
+2008,Multi-line Chemicals,56205-37
+2008,Specialty Chemicals,11269-90
+2008,Alternative Energy Equipment,11155-51
+2008,Automation/Workflow Software,109196-92
+2008,BPO/Outsource Services,11104-57
+2008,"Computers, Parts and Peripherals",10156-69
+2008,Connectivity Products,11120-41
+2008,Educational and Training Services (B2C),51739-03
+2008,Electrical Equipment,106849-45
+2008,Energy Production,39895-30
+2008,Energy Storage,41718-16
+2008,Fiberoptic Equipment,55992-25
+2008,Information Services (B2C),11271-07
+2008,Logistics,11166-31
+2008,Medical Records Systems,55883-08
+2008,Other Communications and Networking,104493-70
+2008,Other Consumer Durables,54632-17
+2008,Other Financial Services,11253-79
+2008,Other Hardware,10052-20
+2008,Other Services (B2C Non-Financial),11135-35
+2008,Social Content,11138-77
+2008,Storage (IT),11306-44
+2008,Wireless Communications Equipment,11158-84
+2008,Wireless Service Providers,50837-23
+2008,Other IT Services,100644-04
+2008,Aerospace and Defense,42228-73
+2008,Discovery Tools (Healthcare),11146-42
+2008,Electronic Components,11158-48
+2008,Financial Software,11121-49
+2008,Software Development Applications,11303-47
+2008,Automotive,11108-89
+2008,Beverages,11116-00
+2008,Clothing,110858-14
+2008,Consulting Services (B2B),11196-10
+2008,Entertainment Software,11274-67
+2008,Laboratory Services (Healthcare),101913-94
+2008,Other Commercial Products,11116-09
+2008,Other Energy,11211-94
+2008,Restaurants and Bars,25306-12
+2008,Telecommunications Service Providers,115615-36
+2008,Energy Exploration,11328-49
+2008,"Movies, Music and Entertainment",11260-09
+2008,Multimedia and Design Software,10373-86
+2008,Other Healthcare Technology Systems,11222-02
+2008,Personal Products,11118-25
+2008,Recreational Goods,11278-36
+2008,Other Healthcare Services,111727-99
+2008,Surgical Devices,10339-93
+2008,Brokerage,10109-26
+2008,Clinics/Outpatient Services,95533-93
+2008,Environmental Services (B2B),52917-22
+2008,Industrial Chemicals,47658-25
+2008,Pharmaceuticals,103479-04
+2008,Water Utilities,10109-26
+2008,Internet Retail,10581-22
+2008,Internet Software,51755-50
+2008,Private Equity,10123-03
+2008,Security Services (B2B),11406-25
+2008,Specialty Retail,10139-41
+2008,Consumer Finance,168558-13
+2008,Database Software,11165-05
+2008,Educational Software,11149-93
+2008,Electronic Equipment and Instruments,10594-72
+2008,Energy Refining,10133-20
+2008,Specialized Finance,56268-10
+2008,Application Specific Semiconductors,11313-46
+2008,Drug Delivery,51057-91
+2008,Asset Management,52125-85
+2008,Human Capital Services,226843-57
+2008,Office Services (B2B),10135-81
+2008,Other Healthcare,10135-81
+2008,Publishing,115193-44
+2008,Accessories,11142-91
+2008,Internet Service Providers,11115-19
+2008,IT Consulting and Outsourcing,11127-16
+2008,Other Capital Markets/Institutions,10139-41
+2008,Real Estate Services (B2C),11318-50
+2008,Holding Companies,54669-70
+2008,Machinery (B2B),226336-42
+2008,Other Consumer Products and Services,51956-65
+2008,Energy Infrastructure,42864-40
+2008,Other Software,55661-86
+2008,Other Devices and Supplies,11106-82
+2008,Other Equipment,11129-86
+2008,Therapeutic Devices,10985-23
+2008,Other Media,53497-81
+2008,Other Energy Services,111301-12
+2008,Agricultural Chemicals,55968-31
+2008,Diagnostic Equipment,11147-50
+2008,General Purpose Semiconductors,40998-88
+2008,Oil and Gas Equipment,41701-51
+2008,Other Business Products and Services,11905-57
+2008,Practice Management (Healthcare),54438-22
+2008,Plastic Containers & Packaging,10364-77
+2008,Precious Metals and Minerals Mining,10381-24
+2008,Legal Services (B2B),10382-41
+2008,Other Materials,54510-22
+2008,Road,10398-70
+2008,Distributors/Wholesale,11958-04
+2008,Medical Supplies,153756-91
+2008,Enterprise Systems (Healthcare),104041-09
+2008,Household Appliances,11118-97
+2008,Industrial Supplies and Parts,11215-27
+2008,"Other Metals, Minerals and Mining",42941-44
+2008,Cable Service Providers,54221-59
+2008,Operating Systems Software,10521-46
+2008,Cultivation,52852-69
+2008,Air,10754-47
+2008,Life and Health Insurance,107903-44
+2008,"Broadcasting, Radio and Television",123418-36
+2008,Distributors (Healthcare),52593-04
+2008,Raw Materials (Non-Wood),53841-97
+2008,Other Information Technology,109554-04
+2008,Distributors/Wholesale (B2C),11013-76
+2008,Food Products,123589-18
+2008,"Accounting, Audit and Tax Services (B2B)",11110-96
+2008,Monitoring Equipment,42769-99
+2008,Other Pharmaceuticals and Biotechnology,52378-57
+2008,Other Semiconductors,14772-97
+2008,Managed Care,11114-65
+2008,Decision/Risk Analysis,51111-37
+2008,Casinos and Gaming,11131-03
+2008,Production (Semiconductors),11132-38
+2008,Infrastructure,11140-93
+2008,Leisure Facilities,50906-17
+2008,Printing Services (B2B),56853-46
+2008,Other Agriculture,56926-36
+2008,Other Containers and Packaging,11163-88
+2008,Wood/Hard Products,11198-98
+2008,"Other Restaurants, Hotels and Leisure",11208-43
+2008,Government,11220-22
+2008,Coal and Consumable Fuels Equipment,223959-43
+2008,Investment Banks,60961-06
+2008,Elder and Disabled Care,11278-00
+2008,Synthetic Textiles,11285-20
+2008,Hospitals/Inpatient Services,40822-84
+2008,Other Retail,52137-01
+2008,Department Stores,11300-32
+2008,Education and Training Services (B2B),57645-73
+2008,Aquaculture,11312-92
+2008,Metal Containers & Packaging,11333-44
+2008,Energy Traders and Brokers,11338-84
+2008,Multi-line Mining,11605-96
+2008,Coal Mining,13404-70
+2008,Buildings and Property,169592-59
+2008,Electric Utilities,26562-88
+2008,Regional Banks,41021-92
+2008,Business Equipment and Supplies,42944-05
+2008,Other Chemicals and Gases,51102-19
+2008,Other Insurance,51485-32
+2008,Horticulture,52281-19
+2008,Paper Containers & Packaging,52689-16
+2008,Other Commercial Banks,53443-09
+2008,National Banks,53961-94
+2008,Household Products,54942-85
+2008,Hotels and Resorts,55763-65
+2008,Home Furnishings,56491-30
+2008,Other Transportation,56786-32
+2008,Animal Textiles,56841-49
+2008,Marine,57523-87
+2008,"Accounting, Audit and Tax Services (B2C)",58046-32
+2008,Catalog Retail,60205-42
+2008,Gas Utilities,61023-61
+2008,Insurance Brokers,65937-34
+2009,Biotechnology,10420-66
+2009,Drug Discovery,11110-33
+2009,Business/Productivity Software,109113-13
+2009,Distributors/Wholesale,59897-17
+2009,Drug Delivery,51037-48
+2009,Electronic Components,11212-66
+2009,Food Products,111389-59
+2009,Other Commercial Services,11147-68
+2009,Other Communications and Networking,47556-19
+2009,Other Information Technology,54497-26
+2009,Decision/Risk Analysis,11123-20
+2009,Laboratory Services (Healthcare),51464-98
+2009,Media and Information Services (B2B),11110-96
+2009,Network Management Software,11196-28
+2009,Social/Platform Software,11192-41
+2009,Vertical Market Software,11260-18
+2009,Application Software,100296-28
+2009,Specialty Chemicals,100348-21
+2009,Application Specific Semiconductors,11104-93
+2009,Automation/Workflow Software,11171-35
+2009,"Broadcasting, Radio and Television",11149-30
+2009,Clothing,10052-20
+2009,"Computers, Parts and Peripherals",11000-08
+2009,Environmental Services (B2B),51779-53
+2009,Financial Software,102158-83
+2009,Internet Service Providers,11329-48
+2009,Managed Care,10052-20
+2009,Other Capital Markets/Institutions,10052-20
+2009,Social Content,51252-22
+2009,Systems and Information Management,11166-49
+2009,Wireless Service Providers,11194-48
+2009,Connectivity Products,11112-31
+2009,IT Consulting and Outsourcing,11127-16
+2009,Software Development Applications,51111-46
+2009,Beverages,227459-53
+2009,Brokerage,10070-83
+2009,Consulting Services (B2B),40849-39
+2009,Electrical Equipment,11160-28
+2009,Energy Storage,11156-77
+2009,Enterprise Systems (Healthcare),11194-39
+2009,General Purpose Semiconductors,11230-66
+2009,Machinery (B2B),123178-15
+2009,"Movies, Music and Entertainment",11161-54
+2009,Other Commercial Products,11158-84
+2009,Alternative Energy Equipment,10398-70
+2009,Educational Software,11215-27
+2009,Internet Software,25310-62
+2009,Logistics,11116-00
+2009,Monitoring Equipment,10602-46
+2009,Other Services (B2C Non-Financial),39760-30
+2009,Outcome Management (Healthcare),10077-85
+2009,Other Healthcare Services,10095-31
+2009,Electronics (B2C),11150-02
+2009,Production (Semiconductors),57070-09
+2009,Communication Software,11852-47
+2009,Energy Production,10532-80
+2009,Multimedia and Design Software,11150-11
+2009,Other Business Products and Services,10123-03
+2009,Specialty Retail,60027-31
+2009,Therapeutic Devices,11114-65
+2009,Electronic Equipment and Instruments,11107-45
+2009,Other Financial Services,11199-52
+2009,Wireless Communications Equipment,11126-62
+2009,Construction and Engineering,10791-55
+2009,Diagnostic Equipment,11125-63
+2009,Energy Infrastructure,10134-73
+2009,Entertainment Software,11166-31
+2009,Human Capital Services,109554-04
+2009,Internet Retail,13404-70
+2009,Other IT Services,11105-74
+2009,Aerospace and Defense,51668-02
+2009,BPO/Outsource Services,10135-81
+2009,Consumer Finance,51739-03
+2009,Educational and Training Services (B2C),11243-89
+2009,Medical Records Systems,14144-86
+2009,Real Estate Services (B2C),10135-81
+2009,Database Software,11311-66
+2009,Holding Companies,60104-89
+2009,Medical Supplies,11146-42
+2009,Other Semiconductors,107925-94
+2009,Publishing,11314-99
+2009,Asset Management,52378-30
+2009,Information Services (B2C),51253-75
+2009,Personal Products,49309-12
+2009,Specialized Finance,11198-62
+2009,Storage (IT),11306-44
+2009,Telecommunications Service Providers,11130-04
+2009,Other Devices and Supplies,108154-72
+2009,Other Equipment,11173-51
+2009,Surgical Devices,11110-60
+2009,Other Energy Services,11137-51
+2009,Pharmaceuticals,10581-22
+2009,Other Healthcare Technology Systems,11326-24
+2009,Other Consumer Durables,52697-53
+2009,Other Consumer Products and Services,10242-91
+2009,Fiberoptic Equipment,10364-77
+2009,Hotels and Resorts,115260-76
+2009,Security Services (B2B),52916-50
+2009,Other Pharmaceuticals and Biotechnology,54360-82
+2009,Other Software,53535-70
+2009,Other Containers and Packaging,10405-45
+2009,Household Appliances,10416-88
+2009,Industrial Supplies and Parts,11158-48
+2009,Other Media,10557-73
+2009,Restaurants and Bars,112168-45
+2009,Other Consumer Non-Durables,58079-17
+2009,Clinics/Outpatient Services,10639-63
+2009,Operating Systems Software,11149-93
+2009,Energy Exploration,11129-41
+2009,Hospitals/Inpatient Services,10905-04
+2009,Synthetic Textiles,109211-50
+2009,Home Furnishings,109555-66
+2009,Automotive,51324-76
+2009,Discovery Tools (Healthcare),13259-17
+2009,Water Utilities,11135-17
+2009,Building Products,11304-73
+2009,Other Materials,52136-74
+2009,Other Retail,11127-25
+2009,Air,62353-54
+2009,Other Energy,11141-38
+2009,Practice Management (Healthcare),11288-17
+2009,Precious Metals and Minerals Mining,11149-03
+2009,Life and Health Insurance,11153-98
+2009,Other Hardware,11322-46
+2009,Education and Training Services (B2B),111551-41
+2009,Cultivation,11166-58
+2009,Office Services (B2B),11166-67
+2009,Other Chemicals and Gases,11169-28
+2009,Elder and Disabled Care,11193-76
+2009,Cable Service Providers,112285-72
+2009,Other Transportation,11203-21
+2009,Leisure Facilities,54154-00
+2009,Accessories,51094-81
+2009,"Other Restaurants, Hotels and Leisure",11215-54
+2009,Property and Casualty Insurance,11215-63
+2009,Household Products,56271-25
+2009,Road,40442-68
+2009,Industrial Chemicals,11275-66
+2009,"Other Metals, Minerals and Mining",54084-97
+2009,Electric Utilities,42909-13
+2009,Other Agriculture,56656-99
+2009,Thrifts and Mortgage Finance,60688-09
+2009,Wood/Hard Products,11300-68
+2009,Agricultural Chemicals,51102-19
+2009,Commercial/Professional Insurance,11270-53
+2009,"Accounting, Audit and Tax Services (B2B)",11274-22
+2009,Private Equity,40623-85
+2009,Oil and Gas Equipment,11292-31
+2009,Other Insurance,11303-11
+2009,Energy Traders and Brokers,11305-27
+2009,Recreational Goods,11332-63
+2009,Aquaculture,11958-04
+2009,Gas Utilities,61023-61
+2009,Buildings and Property,25168-96
+2009,Multi-line Chemicals,52157-26
+2009,Plant Textiles,40822-84
+2009,Other Healthcare,54776-80
+2009,Raw Materials (Non-Wood),42834-43
+2009,General Merchandise Stores,44791-39
+2009,Plastic Containers & Packaging,50933-17
+2009,Energy Refining,51144-13
+2009,Commodity Chemicals,84983-59
+2009,Distributors (Healthcare),53967-52
+2009,Printing Services (B2B),53969-41
+2009,Paper/Soft Products,54064-99
+2009,Animal Husbandry,54770-68
+2009,Energy Marketing,54942-85
+2009,Other Utilities,55459-00
+2009,Casinos and Gaming,56151-10
+2009,Business Equipment and Supplies,56151-55
+2009,Marine,57314-80
+2009,Insurance Brokers,65937-34
+2009,Luxury Goods,89936-74
+2010,Biotechnology,100470-79
+2010,Business/Productivity Software,10581-22
+2010,Application Software,10985-23
+2010,Clothing,64296-73
+2010,Distributors/Wholesale,53882-02
+2010,Drug Delivery,11308-78
+2010,Multimedia and Design Software,11173-51
+2010,Other Commercial Services,10532-80
+2010,Other Communications and Networking,11246-14
+2010,Financial Software,11216-62
+2010,Laboratory Services (Healthcare),11193-04
+2010,Media and Information Services (B2B),104140-63
+2010,Social/Platform Software,108358-57
+2010,Vertical Market Software,11104-93
+2010,Alternative Energy Equipment,11116-00
+2010,Application Specific Semiconductors,11120-41
+2010,Automation/Workflow Software,101626-39
+2010,Communication Software,104812-12
+2010,"Computers, Parts and Peripherals",10630-27
+2010,Database Software,11114-56
+2010,Electrical Equipment,10420-66
+2010,Electronics (B2C),11194-39
+2010,Fiberoptic Equipment,51116-68
+2010,General Purpose Semiconductors,11164-33
+2010,Home Furnishings,60524-47
+2010,Information Services (B2C),11221-66
+2010,Internet Retail,110858-14
+2010,"Movies, Music and Entertainment",11188-72
+2010,Network Management Software,11179-90
+2010,Other Commercial Products,11135-62
+2010,Other Financial Services,11199-52
+2010,Social Content,11110-15
+2010,Software Development Applications,42284-62
+2010,Specialty Retail,56910-88
+2010,Systems and Information Management,11297-98
+2010,Wireless Communications Equipment,11200-69
+2010,Discovery Tools (Healthcare),11146-42
+2010,Electronic Components,51376-15
+2010,Entertainment Software,110338-21
+2010,Beverages,123589-18
+2010,BPO/Outsource Services,114953-14
+2010,Energy Storage,52723-09
+2010,Enterprise Systems (Healthcare),50918-14
+2010,Food Products,11305-54
+2010,Holding Companies,11205-82
+2010,Internet Service Providers,89970-67
+2010,Other Healthcare Services,10754-47
+2010,Other Materials,11151-28
+2010,Other Media,10070-83
+2010,Other Software,112073-14
+2010,Pharmaceuticals,11177-11
+2010,Decision/Risk Analysis,55346-23
+2010,IT Consulting and Outsourcing,11223-55
+2010,Monitoring Equipment,11162-44
+2010,Automotive,11261-35
+2010,Building Products,40744-00
+2010,Energy Production,11110-87
+2010,Publishing,11325-70
+2010,Environmental Services (B2B),11243-89
+2010,Internet Software,40849-39
+2010,Therapeutic Devices,111257-20
+2010,"Broadcasting, Radio and Television",11149-30
+2010,Consumer Finance,56268-10
+2010,Educational Software,51460-12
+2010,Electronic Equipment and Instruments,11115-73
+2010,Energy Refining,10133-20
+2010,Human Capital Services,107253-10
+2010,Consulting Services (B2B),52136-92
+2010,Drug Discovery,110264-95
+2010,Energy Infrastructure,53962-03
+2010,Energy Traders and Brokers,10134-73
+2010,Logistics,11169-46
+2010,Multi-line Insurance,10134-73
+2010,Storage (IT),11183-50
+2010,Asset Management,97547-32
+2010,Connectivity Products,110051-56
+2010,Medical Records Systems,126495-73
+2010,Accessories,57172-78
+2010,Education and Training Services (B2B),60166-00
+2010,Personal Products,125213-32
+2010,Specialized Finance,158246-47
+2010,Surgical Devices,11249-47
+2010,Construction and Engineering,60608-35
+2010,Life and Health Insurance,10146-16
+2010,Operating Systems Software,51407-11
+2010,Telecommunications Service Providers,11197-54
+2010,Diagnostic Equipment,102473-47
+2010,Other Consumer Durables,11113-84
+2010,Other IT Services,10722-16
+2010,Other Hardware,52514-20
+2010,Other Information Technology,56583-10
+2010,Distributors (Healthcare),222702-04
+2010,Medical Supplies,11144-35
+2010,Cable Service Providers,11320-39
+2010,Hospitals/Inpatient Services,10242-91
+2010,Other Consumer Products and Services,10242-91
+2010,Other Devices and Supplies,11293-57
+2010,Other Energy Services,11177-02
+2010,Raw Materials (Non-Wood),10242-91
+2010,Private Equity,102476-98
+2010,Brokerage,10271-98
+2010,Other Healthcare Technology Systems,42447-16
+2010,Regional Banks,55133-47
+2010,Other Consumer Non-Durables,83593-36
+2010,Energy Exploration,51956-65
+2010,Other Business Products and Services,11202-13
+2010,Security Services (B2B),10401-94
+2010,Specialty Chemicals,10401-94
+2010,Wireless Service Providers,40819-51
+2010,Household Appliances,42790-60
+2010,Industrial Chemicals,41699-53
+2010,Educational and Training Services (B2C),109878-85
+2010,Elder and Disabled Care,10563-22
+2010,Machinery (B2B),11325-79
+2010,Clinics/Outpatient Services,108601-48
+2010,Oil and Gas Equipment,14162-32
+2010,"Other Metals, Minerals and Mining",111096-19
+2010,Industrial Supplies and Parts,106721-92
+2010,Printing Services (B2B),108154-72
+2010,Water Utilities,11199-79
+2010,Footwear,109302-49
+2010,Other Apparel,11037-07
+2010,Other Services (B2C Non-Financial),52653-25
+2010,Other Agriculture,16436-44
+2010,Other Semiconductors,11111-68
+2010,Other Retail,11127-25
+2010,Agricultural Chemicals,56045-71
+2010,Multi-line Chemicals,157650-22
+2010,Other Pharmaceuticals and Biotechnology,98013-52
+2010,Leisure Facilities,11128-60
+2010,Hotels and Resorts,11129-32
+2010,Legal Services (B2C),11133-01
+2010,Office Services (B2B),11136-16
+2010,Other Healthcare,11138-68
+2010,Restaurants and Bars,11141-56
+2010,Mineral Textiles,11145-52
+2010,Rail,11149-03
+2010,National Banks,11154-25
+2010,Electric Utilities,11158-57
+2010,Casinos and Gaming,96302-71
+2010,Aerospace and Defense,95533-93
+2010,Other Capital Markets/Institutions,53399-98
+2010,Real Estate Services (B2C),40823-29
+2010,Household Products,181418-32
+2010,Wood/Hard Products,56171-53
+2010,Air,11186-29
+2010,Plastic Containers & Packaging,11186-29
+2010,"Other Restaurants, Hotels and Leisure",56450-71
+2010,Production (Semiconductors),11200-78
+2010,Thrifts and Mortgage Finance,11208-43
+2010,"Accounting, Audit and Tax Services (B2B)",11219-05
+2010,Government,11220-22
+2010,Road,40442-68
+2010,Other Energy,11227-60
+2010,Other Transportation,11235-70
+2010,Managed Care,52568-38
+2010,Other Equipment,11251-81
+2010,Horticulture,53480-53
+2010,Buildings and Property,25168-96
+2010,Recreational Goods,90134-38
+2010,Synthetic Textiles,55968-31
+2010,Animal Husbandry,11300-32
+2010,Commodity Chemicals,11303-11
+2010,Luxury Goods,11303-11
+2010,Marine,11333-44
+2010,Insurance Brokers,11336-32
+2010,Cultivation,62133-85
+2010,Gold Mining,162379-27
+2010,General Merchandise Stores,224539-03
+2010,Outcome Management (Healthcare),40380-31
+2010,Legal Services (B2B),42240-79
+2010,Other Chemicals and Gases,42834-43
+2010,Other Insurance,51485-32
+2010,Metal Containers & Packaging,51501-97
+2010,Other Utilities,97403-59
+2010,Energy Marketing,52367-23
+2010,Aquaculture,53550-64
+2010,Business Equipment and Supplies,56010-97
+2010,Coal Mining,59869-00
+2010,Other Forestry,60289-03
+2010,Automotive Insurance,65937-34
+2011,Application Software,101363-86
+2011,Business/Productivity Software,100823-50
+2011,Diagnostic Equipment,10602-46
+2011,Other Transportation,100143-46
+2011,Biotechnology,101275-48
+2011,Distributors/Wholesale,119851-57
+2011,Drug Discovery,11210-86
+2011,Internet Retail,108358-57
+2011,Network Management Software,110331-10
+2011,Other Commercial Services,112073-14
+2011,Publishing,102495-16
+2011,Database Software,108904-69
+2011,Electronics (B2C),11252-17
+2011,Medical Supplies,103072-69
+2011,Other Healthcare Technology Systems,11261-53
+2011,Social/Platform Software,100690-93
+2011,Storage (IT),55821-43
+2011,Agricultural Chemicals,11028-16
+2011,Alternative Energy Equipment,11151-28
+2011,Application Specific Semiconductors,11131-93
+2011,Automation/Workflow Software,11170-72
+2011,Clothing,42514-75
+2011,Communication Software,11259-64
+2011,"Computers, Parts and Peripherals",11162-17
+2011,Connectivity Products,11195-65
+2011,Discovery Tools (Healthcare),11146-42
+2011,Electrical Equipment,11000-08
+2011,Energy Production,10754-47
+2011,Home Furnishings,10052-20
+2011,Information Services (B2C),11205-82
+2011,Media and Information Services (B2B),102115-90
+2011,Multimedia and Design Software,11133-37
+2011,Other Commercial Products,178723-00
+2011,Other Services (B2C Non-Financial),100575-55
+2011,Other Software,164233-00
+2011,Social Content,122219-20
+2011,Specialty Retail,41733-46
+2011,Systems and Information Management,11305-36
+2011,Telecommunications Service Providers,11164-78
+2011,Vertical Market Software,11165-59
+2011,IT Consulting and Outsourcing,10060-57
+2011,Elder and Disabled Care,162222-49
+2011,Other Information Technology,61658-29
+2011,BPO/Outsource Services,53961-94
+2011,Consulting Services (B2B),109771-30
+2011,Energy Storage,42796-99
+2011,Enterprise Systems (Healthcare),11275-03
+2011,Human Capital Services,11122-21
+2011,Asset Management,60670-81
+2011,Automotive,11108-89
+2011,Electronic Equipment and Instruments,11107-45
+2011,"Movies, Music and Entertainment",110338-21
+2011,Multi-line Chemicals,10109-26
+2011,Other Capital Markets/Institutions,55261-00
+2011,Educational Software,153834-40
+2011,Financial Software,11123-38
+2011,"Other Restaurants, Hotels and Leisure",52672-51
+2011,Software Development Applications,11251-27
+2011,Surgical Devices,11140-12
+2011,Therapeutic Devices,11106-82
+2011,"Broadcasting, Radio and Television",11224-45
+2011,Electronic Components,11149-03
+2011,General Purpose Semiconductors,51508-36
+2011,Medical Records Systems,12075-22
+2011,Consumer Finance,52791-85
+2011,Energy Infrastructure,55282-06
+2011,Entertainment Software,108166-06
+2011,Hospitals/Inpatient Services,52524-28
+2011,Machinery (B2B),107903-44
+2011,Managed Care,65871-01
+2011,Multi-line Insurance,10134-73
+2011,Other Devices and Supplies,11121-49
+2011,Other Financial Services,125027-02
+2011,Other IT Services,52317-73
+2011,Wireless Communications Equipment,11236-15
+2011,Logistics,14187-97
+2011,Beverages,103037-59
+2011,Internet Software,52267-69
+2011,Personal Products,104749-57
+2011,Industrial Supplies and Parts,52743-25
+2011,Other Utilities,10146-16
+2011,Laboratory Services (Healthcare),54766-63
+2011,Drug Delivery,102491-20
+2011,Pharmaceuticals,11111-05
+2011,Clinics/Outpatient Services,108443-17
+2011,Construction and Engineering,58046-32
+2011,Educational and Training Services (B2C),58294-54
+2011,Plastic Containers & Packaging,51627-88
+2011,Buildings and Property,10382-41
+2011,Specialized Finance,229189-69
+2011,Other Containers and Packaging,56257-39
+2011,Business Equipment and Supplies,10401-94
+2011,Cultivation,56621-35
+2011,Energy Refining,10401-94
+2011,Other Consumer Products and Services,107451-64
+2011,Security Services (B2B),109557-10
+2011,Other Communications and Networking,104041-09
+2011,Food Products,111567-79
+2011,Recreational Goods,157587-31
+2011,Specialty Chemicals,11269-90
+2011,Environmental Services (B2B),14766-85
+2011,Wireless Service Providers,42852-25
+2011,Other Healthcare Services,11340-28
+2011,Other Pharmaceuticals and Biotechnology,11140-75
+2011,Cable Service Providers,51004-36
+2011,Monitoring Equipment,11110-33
+2011,Private Equity,110765-62
+2011,Wood/Hard Products,11104-21
+2011,Other Retail,56598-76
+2011,Distributors (Healthcare),11111-41
+2011,Leisure Facilities,54153-82
+2011,Aerospace and Defense,25383-07
+2011,Household Appliances,11118-97
+2011,Hotels and Resorts,53876-35
+2011,Holding Companies,228764-44
+2011,Other Apparel,11242-27
+2011,Decision/Risk Analysis,52372-72
+2011,Practice Management (Healthcare),62623-18
+2011,Education and Training Services (B2B),226559-44
+2011,Legal Services (B2C),51180-58
+2011,Other Energy,53524-09
+2011,Fiberoptic Equipment,11185-84
+2011,Other Media,61476-94
+2011,Water Utilities,11274-58
+2011,Other Semiconductors,11135-62
+2011,Legal Services (B2B),11135-71
+2011,Other Chemicals and Gases,11136-34
+2011,Building Products,115611-49
+2011,Paper Containers & Packaging,54402-76
+2011,Accessories,52525-54
+2011,Other Business Products and Services,11149-93
+2011,Energy Exploration,11154-25
+2011,Oil and Gas Equipment,11157-04
+2011,Casinos and Gaming,11159-74
+2011,Other Healthcare,98013-52
+2011,Household Products,11165-50
+2011,General Merchandise Stores,224539-03
+2011,Office Services (B2B),53991-28
+2011,Printing Services (B2B),11166-67
+2011,Other Hardware,11231-38
+2011,Commodity Chemicals,11174-14
+2011,Other Consumer Durables,98350-75
+2011,Other Materials,11184-67
+2011,Coal and Consumable Fuels Equipment,223962-22
+2011,Other Agriculture,40404-07
+2011,Industrial Chemicals,56817-91
+2011,Production (Semiconductors),11267-29
+2011,Real Estate Services (B2C),56698-30
+2011,Road,56386-27
+2011,Other Equipment,60700-96
+2011,Cruise Lines,11216-98
+2011,Internet Service Providers,11329-48
+2011,Iron and Steel Mining,11219-05
+2011,"Other Metals, Minerals and Mining",52357-78
+2011,Property and Casualty Insurance,11228-50
+2011,Life and Health Insurance,11231-38
+2011,Raw Materials (Non-Wood),53824-96
+2011,Department Stores,11247-40
+2011,Other Consumer Non-Durables,11247-40
+2011,Restaurants and Bars,153597-16
+2011,Automotive Insurance,11251-81
+2011,Electric Utilities,11253-88
+2011,Animal Husbandry,11262-52
+2011,Other Energy Services,127263-34
+2011,Investment Banks,11295-73
+2011,Operating Systems Software,11315-62
+2011,Brokerage,91294-66
+2011,Energy Traders and Brokers,11338-84
+2011,Luxury Goods,11341-90
+2011,Forestry Processing,162378-82
+2011,Footwear,51023-17
+2011,Real Estate Investment Trusts (REITs),40380-31
+2011,Horticulture,40822-84
+2011,Gold Mining,41699-53
+2011,Other Textiles,42241-78
+2011,Outcome Management (Healthcare),52825-42
+2011,Air,51246-64
+2011,Mineral Textiles,51501-97
+2011,Multi-line Mining,51501-97
+2011,Energy Transportation,51563-35
+2011,Regional Banks,52204-87
+2011,Precious Metals and Minerals Mining,52357-78
+2011,Other Insurance,52774-75
+2011,National Banks,55133-47
+2011,Multi-Utilities,54746-29
+2011,Forestry Development/Harvesting,55897-57
+2011,Animal Textiles,56841-49
+2011,Thrifts and Mortgage Finance,63781-30
+2011,Other Forestry,64888-84
+2011,Insurance Brokers,65937-34
+2011,Distributors/Wholesale (B2C),89969-68
+2012,Business/Productivity Software,102476-98
+2012,Diagnostic Equipment,11113-84
+2012,Other Consumer Products and Services,161030-62
+2012,Biotechnology,11115-19
+2012,Clothing,155782-45
+2012,Drug Discovery,110264-95
+2012,Electrical Equipment,11177-02
+2012,Leisure Facilities,121114-18
+2012,Network Management Software,111179-17
+2012,Publishing,101913-94
+2012,Systems and Information Management,108978-22
+2012,Application Software,100624-51
+2012,Automation/Workflow Software,108030-97
+2012,Media and Information Services (B2B),100439-92
+2012,Medical Supplies,11290-87
+2012,Other Energy Services,57533-41
+2012,Software Development Applications,174882-34
+2012,Vertical Market Software,11300-95
+2012,Laboratory Services (Healthcare),100470-79
+2012,Alternative Energy Equipment,11196-28
+2012,Application Specific Semiconductors,11149-30
+2012,Casinos and Gaming,10052-20
+2012,Communication Software,100582-93
+2012,Database Software,11117-44
+2012,Electronic Components,11111-86
+2012,Entertainment Software,109624-69
+2012,Fiberoptic Equipment,166731-04
+2012,Financial Software,108443-17
+2012,Food Products,112789-63
+2012,General Purpose Semiconductors,11272-15
+2012,Industrial Supplies and Parts,11260-63
+2012,Information Services (B2C),11170-72
+2012,Internet Retail,11113-03
+2012,Internet Service Providers,107903-44
+2012,Life and Health Insurance,42384-25
+2012,Multimedia and Design Software,11251-45
+2012,Other Commercial Products,160066-18
+2012,Other Communications and Networking,59253-22
+2012,Other IT Services,55708-75
+2012,Personal Products,107502-22
+2012,Social Content,107883-55
+2012,Social/Platform Software,104140-63
+2012,Specialty Retail,11200-78
+2012,IT Consulting and Outsourcing,93149-02
+2012,Printing Services (B2B),158246-47
+2012,Enterprise Systems (Healthcare),11138-77
+2012,Managed Care,55575-82
+2012,Other Commercial Services,108143-92
+2012,Other Media,160013-71
+2012,Wireless Communications Equipment,11298-70
+2012,Decision/Risk Analysis,117873-64
+2012,Recreational Goods,11332-63
+2012,BPO/Outsource Services,11260-18
+2012,Electronics (B2C),11151-28
+2012,Energy Production,11310-22
+2012,Environmental Services (B2B),181124-11
+2012,Industrial Chemicals,148704-13
+2012,Multi-line Chemicals,10109-26
+2012,Operating Systems Software,11237-50
+2012,Surgical Devices,11110-78
+2012,Water Utilities,11274-58
+2012,Accessories,11172-25
+2012,"Broadcasting, Radio and Television",167790-43
+2012,Consulting Services (B2B),11235-70
+2012,Educational Software,11285-02
+2012,Holding Companies,166032-64
+2012,Internet Software,11173-60
+2012,Medical Records Systems,52282-99
+2012,"Movies, Music and Entertainment",115339-69
+2012,Other Capital Markets/Institutions,102848-59
+2012,"Other Restaurants, Hotels and Leisure",40430-80
+2012,Outcome Management (Healthcare),10281-70
+2012,Therapeutic Devices,11147-05
+2012,Consumer Finance,10230-94
+2012,Educational and Training Services (B2C),52968-70
+2012,Electronic Equipment and Instruments,11208-70
+2012,Human Capital Services,25038-01
+2012,Other Software,10155-07
+2012,Practice Management (Healthcare),53739-64
+2012,Drug Delivery,11329-30
+2012,Elder and Disabled Care,55468-99
+2012,Energy Infrastructure,12150-91
+2012,Other Devices and Supplies,11268-82
+2012,Other Financial Services,101921-50
+2012,Real Estate Services (B2C),53782-03
+2012,Storage (IT),11211-94
+2012,Logistics,54632-17
+2012,Telecommunications Service Providers,59906-08
+2012,Automotive,11108-89
+2012,Education and Training Services (B2B),10139-41
+2012,Other Semiconductors,57070-09
+2012,Specialized Finance,119077-57
+2012,Buildings and Property,86936-77
+2012,Other Consumer Durables,51023-26
+2012,Other Healthcare Services,108601-48
+2012,Connectivity Products,166955-77
+2012,Office Services (B2B),10181-17
+2012,Pharmaceuticals,10845-37
+2012,Wireless Service Providers,161489-71
+2012,Other Pharmaceuticals and Biotechnology,11140-75
+2012,Discovery Tools (Healthcare),51782-14
+2012,Aerospace and Defense,50951-71
+2012,Energy Exploration,53737-66
+2012,Other Healthcare Technology Systems,108183-97
+2012,Hotels and Resorts,168558-13
+2012,Production (Semiconductors),11308-69
+2012,Energy Storage,151582-87
+2012,Other Business Products and Services,10401-94
+2012,Specialty Chemicals,42862-24
+2012,Security Services (B2B),11230-93
+2012,Other Information Technology,10411-93
+2012,Clinics/Outpatient Services,11283-94
+2012,Restaurants and Bars,104749-57
+2012,Beverages,61836-40
+2012,Private Equity,10630-27
+2012,Agricultural Chemicals,106900-39
+2012,Cultivation,54742-51
+2012,Household Appliances,10905-04
+2012,Other Services (B2C Non-Financial),153602-56
+2012,Asset Management,109302-49
+2012,Monitoring Equipment,11131-93
+2012,Other Healthcare,11106-82
+2012,Air,170341-03
+2012,Distributors/Wholesale,11279-53
+2012,Oil and Gas Equipment,118482-49
+2012,Hospitals/Inpatient Services,58468-51
+2012,Luxury Goods,226992-61
+2012,Home Furnishings,51696-19
+2012,Other Retail,11127-25
+2012,Machinery (B2B),11250-28
+2012,General Merchandise Stores,11132-38
+2012,Marine,58452-67
+2012,"Other Metals, Minerals and Mining",55741-51
+2012,Other Insurance,11157-58
+2012,Electric Utilities,51700-60
+2012,"Computers, Parts and Peripherals",62574-94
+2012,Other Materials,54154-09
+2012,Construction and Engineering,11171-53
+2012,Energy Marketing,60926-95
+2012,Building Products,118879-84
+2012,Regional Banks,11182-96
+2012,Horticulture,52887-16
+2012,Other Energy,54910-72
+2012,Automotive Insurance,226604-08
+2012,Business Equipment and Supplies,11189-44
+2012,Footwear,11189-44
+2012,Other Agriculture,60462-10
+2012,Thrifts and Mortgage Finance,11208-43
+2012,Property and Casualty Insurance,11215-63
+2012,Legal Services (B2B),160136-29
+2012,Plastic Containers & Packaging,11228-50
+2012,Distributors/Wholesale (B2C),112398-31
+2012,Paper/Soft Products,11244-34
+2012,Cable Service Providers,11250-10
+2012,Other Utilities,11259-82
+2012,Other Containers and Packaging,11262-52
+2012,Precious Metals and Minerals Mining,11295-01
+2012,Other Hardware,58984-57
+2012,Gas Utilities,11315-89
+2012,Distributors (Healthcare),54195-67
+2012,Energy Refining,125953-48
+2012,Aquaculture,53948-62
+2012,Other Consumer Non-Durables,11867-23
+2012,Multi-line Insurance,149315-86
+2012,Real Estate Investment Trusts (REITs),40380-31
+2012,Other Equipment,55875-97
+2012,Other Chemicals and Gases,42834-43
+2012,Coal and Consumable Fuels Equipment,50911-66
+2012,Metal Containers & Packaging,50925-70
+2012,Road,51020-65
+2012,Raw Materials (Non-Wood),51243-40
+2012,Legal Services (B2C),51253-84
+2012,Forestry Development/Harvesting,52384-06
+2012,Brokerage,53738-11
+2012,Other Transportation,53967-52
+2012,Insurance Brokers,55123-21
+2012,National Banks,55133-47
+2012,Forestry Processing,55527-58
+2012,Animal Husbandry,56693-26
+2012,Other Apparel,58428-46
+2012,Wood/Hard Products,60499-36
+2012,Catalog Retail,63242-92
+2012,Coal Mining,97312-42
+2013,Biotechnology,100016-92
+2013,Building Products,11156-95
+2013,Household Products,100035-19
+2013,Synthetic Textiles,54383-77
+2013,Alternative Energy Equipment,163646-29
+2013,Consumer Finance,100881-19
+2013,Social/Platform Software,100143-46
+2013,Environmental Services (B2B),107588-35
+2013,Other Commercial Services,107502-22
+2013,Business/Productivity Software,100280-98
+2013,Drug Discovery,107877-25
+2013,Internet Retail,100236-79
+2013,Medical Supplies,107847-10
+2013,Software Development Applications,11181-34
+2013,Application Software,101074-96
+2013,Automation/Workflow Software,11325-61
+2013,Connectivity Products,54520-03
+2013,Media and Information Services (B2B),102610-45
+2013,Network Management Software,11110-96
+2013,Social Content,101903-14
+2013,Specialty Retail,100247-86
+2013,Publishing,100464-85
+2013,Communication Software,107903-44
+2013,"Computers, Parts and Peripherals",11314-45
+2013,Database Software,109554-04
+2013,Discovery Tools (Healthcare),42274-45
+2013,Educational and Training Services (B2C),100554-04
+2013,Enterprise Systems (Healthcare),11456-83
+2013,Fiberoptic Equipment,11175-49
+2013,Human Capital Services,100873-54
+2013,Information Services (B2C),104056-30
+2013,IT Consulting and Outsourcing,11301-49
+2013,Luxury Goods,56730-79
+2013,Machinery (B2B),54862-57
+2013,Other Capital Markets/Institutions,161348-68
+2013,Other Consumer Durables,121114-18
+2013,Other Devices and Supplies,10228-51
+2013,Other Financial Services,115055-47
+2013,Systems and Information Management,11137-51
+2013,Telecommunications Service Providers,11181-79
+2013,Home Furnishings,58021-30
+2013,Restaurants and Bars,225893-44
+2013,Automotive,166956-49
+2013,Beverages,11788-30
+2013,Food Products,11167-93
+2013,Other Transportation,112300-21
+2013,Electronic Components,11107-45
+2013,Hotels and Resorts,52825-24
+2013,Financial Software,101626-39
+2013,Multimedia and Design Software,118888-84
+2013,"Broadcasting, Radio and Television",14533-66
+2013,BPO/Outsource Services,169077-70
+2013,Cable Service Providers,10070-83
+2013,Decision/Risk Analysis,11227-60
+2013,Energy Production,11135-17
+2013,Internet Software,44792-56
+2013,Other Commercial Products,11215-27
+2013,Other Healthcare Services,157248-55
+2013,Other Materials,10070-83
+2013,Other Pharmaceuticals and Biotechnology,11161-27
+2013,Storage (IT),11121-76
+2013,Energy Storage,11315-89
+2013,Medical Records Systems,10948-78
+2013,Other Healthcare Technology Systems,11223-55
+2013,Wireless Service Providers,51446-26
+2013,"Movies, Music and Entertainment",42737-23
+2013,Other IT Services,112719-70
+2013,Electronic Equipment and Instruments,129039-49
+2013,Industrial Chemicals,11198-71
+2013,Vertical Market Software,11302-93
+2013,Accessories,108469-45
+2013,Clothing,110858-14
+2013,Elder and Disabled Care,52833-25
+2013,Electrical Equipment,11193-40
+2013,Electronics (B2C),11296-18
+2013,Entertainment Software,108039-79
+2013,Insurance Brokers,10123-03
+2013,Laboratory Services (Healthcare),11104-57
+2013,Logistics,112285-72
+2013,Other Hardware,125970-49
+2013,Personal Products,121332-52
+2013,Real Estate Services (B2C),110126-98
+2013,Security Services (B2B),11174-14
+2013,Therapeutic Devices,11106-82
+2013,Application Specific Semiconductors,11214-82
+2013,Educational Software,103037-59
+2013,Energy Refining,10133-20
+2013,"Other Restaurants, Hotels and Leisure",53876-35
+2013,Consulting Services (B2B),10791-55
+2013,Other Communications and Networking,12621-34
+2013,Drug Delivery,101363-86
+2013,Clinics/Outpatient Services,114695-56
+2013,Diagnostic Equipment,109898-74
+2013,General Purpose Semiconductors,11272-15
+2013,Aerospace and Defense,110820-43
+2013,Other Software,47556-19
+2013,Monitoring Equipment,108201-97
+2013,Pharmaceuticals,11322-91
+2013,Surgical Devices,11208-88
+2013,Legal Services (B2B),121307-86
+2013,Outcome Management (Healthcare),109844-83
+2013,Plant Textiles,10242-91
+2013,Printing Services (B2B),10532-80
+2013,Precious Metals and Minerals Mining,83895-13
+2013,Specialized Finance,102473-47
+2013,Other Healthcare,117491-05
+2013,Other Information Technology,11108-17
+2013,Rail,11172-43
+2013,Recreational Goods,152551-09
+2013,Holding Companies,57857-14
+2013,Metal Containers & Packaging,10365-13
+2013,Internet Service Providers,62013-97
+2013,Other Services (B2C Non-Financial),120499-93
+2013,Household Appliances,166476-70
+2013,Industrial Supplies and Parts,118482-49
+2013,Distributors/Wholesale,122960-98
+2013,Energy Infrastructure,11160-10
+2013,Wireless Communications Equipment,119558-89
+2013,Oil and Gas Equipment,40312-09
+2013,Other Equipment,53486-47
+2013,Other Semiconductors,11298-97
+2013,Infrastructure,10914-67
+2013,Construction and Engineering,50951-71
+2013,Other Consumer Non-Durables,11226-25
+2013,Specialty Chemicals,11165-68
+2013,Air,11110-24
+2013,Other Agriculture,11114-38
+2013,Managed Care,11114-65
+2013,Leisure Facilities,112159-99
+2013,Horticulture,11118-25
+2013,Water Utilities,162751-06
+2013,Multi-line Chemicals,11121-85
+2013,Office Services (B2B),167344-21
+2013,General Merchandise Stores,170979-22
+2013,Other Retail,63496-54
+2013,Distributors/Wholesale (B2C),11143-54
+2013,Asset Management,57053-80
+2013,Other Energy Services,127263-34
+2013,Distributors (Healthcare),11158-39
+2013,Other Consumer Products and Services,151412-95
+2013,"Other Metals, Minerals and Mining",129101-05
+2013,Road,57173-23
+2013,Cultivation,11188-63
+2013,Hospitals/Inpatient Services,82811-08
+2013,Private Equity,11314-63
+2013,Wood/Hard Products,11171-53
+2013,Commodity Chemicals,11174-14
+2013,Education and Training Services (B2B),149819-77
+2013,Energy Marketing,11174-14
+2013,Forestry Development/Harvesting,11188-90
+2013,Investment Banks,11188-90
+2013,Automotive Insurance,11219-05
+2013,Business Equipment and Supplies,55503-46
+2013,Practice Management (Healthcare),62623-18
+2013,Legal Services (B2C),62032-42
+2013,Footwear,112203-01
+2013,Raw Materials (Non-Wood),52321-42
+2013,Paper Containers & Packaging,40380-31
+2013,Other Energy,11267-29
+2013,Life and Health Insurance,11270-53
+2013,Operating Systems Software,11272-42
+2013,Brokerage,11274-22
+2013,Electric Utilities,53811-28
+2013,Energy Transportation,51181-66
+2013,Property and Casualty Insurance,11300-32
+2013,Other Media,11309-41
+2013,Other Textiles,11334-61
+2013,Department Stores,63337-69
+2013,Energy Traders and Brokers,11338-84
+2013,Energy Exploration,120958-48
+2013,Casinos and Gaming,121784-59
+2013,Marine,122377-42
+2013,Multi-line Mining,12669-31
+2013,Multi-line Insurance,149315-86
+2013,Other Business Products and Services,154449-64
+2013,Government,167023-63
+2013,Catalog Retail,222915-61
+2013,"Accounting, Audit and Tax Services (B2B)",226843-57
+2013,Plastic Containers & Packaging,60104-08
+2013,Agricultural Chemicals,40801-15
+2013,Real Estate Investment Trusts (REITs),40380-31
+2013,Other Insurance,41762-98
+2013,Other Chemicals and Gases,62217-64
+2013,Animal Husbandry,53927-11
+2013,Buildings and Property,51009-49
+2013,Gas Utilities,52202-44
+2013,Production (Semiconductors),53327-17
+2013,Regional Banks,53961-94
+2013,National Banks,54725-05
+2013,Multi-Utilities,54746-29
+2013,Thrifts and Mortgage Finance,56268-10
+2014,Business/Productivity Software,100942-12
+2014,Other Business Products and Services,100873-54
+2014,Building Products,53013-34
+2014,Household Products,100035-19
+2014,Other Devices and Supplies,153304-84
+2014,Drug Discovery,100104-13
+2014,Specialized Finance,100105-93
+2014,Application Software,100473-49
+2014,Biotechnology,100564-30
+2014,Internet Retail,109096-93
+2014,Construction and Engineering,55388-08
+2014,Environmental Services (B2B),11269-90
+2014,Other Energy Services,100147-96
+2014,Alternative Energy Equipment,11196-28
+2014,Electronic Equipment and Instruments,101748-16
+2014,Electronics (B2C),100157-23
+2014,Energy Exploration,100193-86
+2014,Application Specific Semiconductors,11149-03
+2014,Medical Supplies,108183-97
+2014,Multimedia and Design Software,100823-50
+2014,Other Information Technology,11112-67
+2014,Specialty Retail,185590-63
+2014,Systems and Information Management,11232-91
+2014,Communication Software,100582-93
+2014,Educational Software,110172-79
+2014,Managed Care,10022-14
+2014,Media and Information Services (B2B),104140-63
+2014,Network Management Software,107651-71
+2014,Other Healthcare Technology Systems,109491-40
+2014,Social/Platform Software,101389-42
+2014,Software Development Applications,11197-54
+2014,Other Financial Services,119715-04
+2014,Financial Software,100273-15
+2014,Human Capital Services,11135-26
+2014,Entertainment Software,100536-13
+2014,Internet Software,122136-40
+2014,Wireless Communications Equipment,157520-53
+2014,Database Software,100348-21
+2014,Information Services (B2C),102889-27
+2014,Automation/Workflow Software,11166-49
+2014,BPO/Outsource Services,149811-94
+2014,Casinos and Gaming,10052-20
+2014,Connectivity Products,109665-10
+2014,Education and Training Services (B2B),151082-11
+2014,Fiberoptic Equipment,11222-83
+2014,Medical Records Systems,109024-30
+2014,Other Consumer Durables,135855-91
+2014,Personal Products,166476-70
+2014,Storage (IT),110264-68
+2014,Vertical Market Software,112073-14
+2014,"Movies, Music and Entertainment",132412-51
+2014,Other Software,120716-47
+2014,Other Services (B2C Non-Financial),103037-59
+2014,Food Products,107843-41
+2014,Industrial Chemicals,148704-13
+2014,Other Commercial Products,160315-75
+2014,Consulting Services (B2B),104840-56
+2014,Industrial Supplies and Parts,40451-14
+2014,Internet Service Providers,12115-81
+2014,IT Consulting and Outsourcing,56545-66
+2014,Other Commercial Services,11120-41
+2014,Other Healthcare Services,107253-10
+2014,Social Content,166995-10
+2014,Logistics,11127-79
+2014,Monitoring Equipment,102431-26
+2014,Household Appliances,53314-84
+2014,Recreational Goods,124108-57
+2014,Operating Systems Software,10109-26
+2014,Automotive,107137-54
+2014,Electrical Equipment,118673-20
+2014,Insurance Brokers,10123-03
+2014,Other Transportation,109674-37
+2014,Outcome Management (Healthcare),109862-02
+2014,Real Estate Investment Trusts (REITs),10123-03
+2014,Educational and Training Services (B2C),153900-10
+2014,Energy Storage,163217-89
+2014,"Other Restaurants, Hotels and Leisure",11295-73
+2014,"Broadcasting, Radio and Television",52579-18
+2014,Clothing,117578-71
+2014,Enterprise Systems (Healthcare),120668-32
+2014,Hospitals/Inpatient Services,11208-43
+2014,Machinery (B2B),123700-87
+2014,Other Communications and Networking,56189-53
+2014,Publishing,62707-51
+2014,Real Estate Services (B2C),60807-61
+2014,Consumer Finance,167975-20
+2014,Accessories,11212-66
+2014,Beverages,163305-37
+2014,Brokerage,54265-69
+2014,Holding Companies,10139-41
+2014,Other IT Services,11173-60
+2014,Aerospace and Defense,167221-45
+2014,General Purpose Semiconductors,11323-90
+2014,Diagnostic Equipment,102473-47
+2014,Pharmaceuticals,156885-67
+2014,Therapeutic Devices,11177-11
+2014,Oil and Gas Equipment,10666-90
+2014,"Computers, Parts and Peripherals",102354-67
+2014,Discovery Tools (Healthcare),11121-67
+2014,Surgical Devices,11190-25
+2014,Energy Marketing,51631-48
+2014,Horticulture,11188-63
+2014,Marine,120647-17
+2014,Other Pharmaceuticals and Biotechnology,10242-91
+2014,Property and Casualty Insurance,10242-91
+2014,Laboratory Services (Healthcare),102425-68
+2014,Security Services (B2B),11154-25
+2014,Telecommunications Service Providers,110349-10
+2014,Footwear,19757-44
+2014,Asset Management,11274-22
+2014,Legal Services (B2B),10364-77
+2014,Printing Services (B2B),61956-64
+2014,Drug Delivery,11984-32
+2014,Energy Production,11248-57
+2014,Legal Services (B2C),10382-41
+2014,Other Semiconductors,11123-20
+2014,Private Equity,107979-40
+2014,Energy Infrastructure,51656-23
+2014,Electronic Components,11193-40
+2014,Agricultural Chemicals,111567-79
+2014,Distributors/Wholesale,121840-30
+2014,Elder and Disabled Care,10563-22
+2014,Office Services (B2B),157578-04
+2014,Home Furnishings,11154-70
+2014,Other Chemicals and Gases,107502-22
+2014,Raw Materials (Non-Wood),108469-45
+2014,Restaurants and Bars,11121-13
+2014,Clinics/Outpatient Services,11152-27
+2014,Other Insurance,109408-06
+2014,Buildings and Property,25168-96
+2014,Hotels and Resorts,124689-52
+2014,Other Consumer Products and Services,53592-76
+2014,Multi-line Insurance,149315-86
+2014,Air,11550-52
+2014,Life and Health Insurance,11110-33
+2014,Distributors (Healthcare),60961-51
+2014,Wood/Hard Products,227998-00
+2014,Leisure Facilities,115615-54
+2014,Decision/Risk Analysis,160859-26
+2014,Other Energy,53524-09
+2014,Specialty Chemicals,42862-24
+2014,Other Hardware,11129-59
+2014,Water Utilities,11135-17
+2014,Practice Management (Healthcare),40425-49
+2014,Paper Containers & Packaging,11144-17
+2014,Other Agriculture,123121-81
+2014,Other Healthcare,25168-96
+2014,Electric Utilities,11158-57
+2014,Gas Utilities,11315-89
+2014,Other Capital Markets/Institutions,60080-77
+2014,Other Consumer Non-Durables,11170-63
+2014,Other Equipment,56657-35
+2014,Commodity Chemicals,51280-03
+2014,Road,158121-55
+2014,Business Equipment and Supplies,11189-44
+2014,Other Media,13174-30
+2014,Thrifts and Mortgage Finance,11208-43
+2014,Wireless Service Providers,11215-36
+2014,Cultivation,11216-53
+2014,Automotive Insurance,11216-98
+2014,Other Retail,11326-69
+2014,Metal Containers & Packaging,11220-67
+2014,Precious Metals and Minerals Mining,11227-51
+2014,Energy Refining,11231-38
+2014,Office Electronics,11237-50
+2014,Other Materials,223507-63
+2014,Cable Service Providers,11258-38
+2014,Energy Transportation,11288-71
+2014,Synthetic Textiles,11335-51
+2014,Animal Textiles,11410-03
+2014,Aquaculture,114619-69
+2014,"Other Metals, Minerals and Mining",124999-66
+2014,Department Stores,155857-15
+2014,Animal Husbandry,187695-28
+2014,Mineral Textiles,229432-06
+2014,Plastic Containers & Packaging,39895-03
+2014,Other Textiles,58854-43
+2014,Coal and Consumable Fuels Equipment,40801-15
+2014,National Banks,40822-84
+2014,"Accounting, Audit and Tax Services (B2C)",42278-86
+2014,"Accounting, Audit and Tax Services (B2B)",42788-17
+2014,Other Containers and Packaging,51563-35
+2014,Distributors/Wholesale (B2C),52373-26
+2014,Multi-line Chemicals,54587-71
+2014,Other Apparel,55182-97
+2014,Plant Textiles,56251-54
+2014,Multi-line Mining,59869-00
+2014,Iron and Steel Mining,60499-36
+2014,Regional Banks,61870-24
+2014,Luxury Goods,65111-59
+2014,Gold Mining,97859-26
+2015,Diagnostic Equipment,109088-65
+2015,Household Products,100035-19
+2015,Internet Retail,100050-76
+2015,Drug Discovery,100104-13
+2015,Food Products,101717-38
+2015,Specialized Finance,124923-52
+2015,Application Software,101026-72
+2015,Business/Productivity Software,101274-94
+2015,Clothing,11168-38
+2015,Entertainment Software,110452-06
+2015,Environmental Services (B2B),10481-32
+2015,Human Capital Services,106917-85
+2015,Multimedia and Design Software,109515-61
+2015,Other Financial Services,11308-69
+2015,Social/Platform Software,102206-08
+2015,Other Transportation,100147-96
+2015,"Movies, Music and Entertainment",100693-27
+2015,Social Content,11166-49
+2015,Application Specific Semiconductors,11294-92
+2015,Biotechnology,100564-30
+2015,Database Software,100530-01
+2015,Educational Software,103276-90
+2015,Financial Software,102752-02
+2015,Media and Information Services (B2B),101908-00
+2015,Network Management Software,104840-56
+2015,Accessories,161106-40
+2015,Automation/Workflow Software,10581-22
+2015,Consulting Services (B2B),52155-73
+2015,Educational and Training Services (B2C),154170-73
+2015,Energy Storage,52358-05
+2015,Information Services (B2C),103272-40
+2015,Other Commercial Services,107991-01
+2015,Other Healthcare Technology Systems,101275-48
+2015,Other Services (B2C Non-Financial),110442-79
+2015,Software Development Applications,109521-55
+2015,Specialty Retail,148241-44
+2015,Consumer Finance,11209-42
+2015,Communication Software,107847-10
+2015,Publishing,119583-10
+2015,Laboratory Services (Healthcare),150433-93
+2015,Other Chemicals and Gases,63765-64
+2015,Other Commercial Products,11234-35
+2015,Casinos and Gaming,10052-20
+2015,Construction and Engineering,109938-34
+2015,Discovery Tools (Healthcare),11190-25
+2015,Electronic Components,107818-66
+2015,Operating Systems Software,114163-93
+2015,Other Consumer Durables,11113-84
+2015,Other Devices and Supplies,10228-51
+2015,Other Software,107341-39
+2015,Storage (IT),123951-07
+2015,Vertical Market Software,13419-01
+2015,Hotels and Resorts,113047-03
+2015,Automotive,111551-41
+2015,Insurance Brokers,100624-51
+2015,Monitoring Equipment,100676-62
+2015,Industrial Supplies and Parts,112012-48
+2015,IT Consulting and Outsourcing,120145-51
+2015,Other Business Products and Services,111167-11
+2015,Alternative Energy Equipment,108040-51
+2015,Home Furnishings,51696-19
+2015,Other Healthcare,153740-53
+2015,Beverages,11169-28
+2015,Electronics (B2C),101405-89
+2015,Recreational Goods,101177-47
+2015,Electrical Equipment,11110-69
+2015,Security Services (B2B),101074-96
+2015,Water Utilities,54239-95
+2015,Other IT Services,111329-11
+2015,Real Estate Services (B2C),112335-49
+2015,Surgical Devices,110367-91
+2015,Therapeutic Devices,102431-26
+2015,Electronic Equipment and Instruments,11170-36
+2015,Energy Refining,10133-20
+2015,Internet Software,11317-42
+2015,"Other Restaurants, Hotels and Leisure",65823-49
+2015,Systems and Information Management,11131-03
+2015,Aerospace and Defense,102577-60
+2015,Asset Management,25206-31
+2015,Distributors/Wholesale,115260-76
+2015,Energy Infrastructure,158788-36
+2015,Medical Records Systems,102115-90
+2015,Machinery (B2B),11279-53
+2015,Multi-Utilities,101363-86
+2015,Other Agriculture,122758-48
+2015,Elder and Disabled Care,101389-42
+2015,Enterprise Systems (Healthcare),119447-20
+2015,Outcome Management (Healthcare),43057-36
+2015,Brokerage,10139-41
+2015,Clinics/Outpatient Services,120887-65
+2015,Education and Training Services (B2B),11227-51
+2015,Government,10139-41
+2015,Logistics,11214-19
+2015,Other Hardware,162206-74
+2015,Other Healthcare Services,11152-27
+2015,Other Information Technology,56109-52
+2015,Telecommunications Service Providers,65871-01
+2015,Other Consumer Products and Services,90801-37
+2015,Pharmaceuticals,11151-91
+2015,Connectivity Products,120532-42
+2015,Fiberoptic Equipment,109725-58
+2015,Managed Care,11278-00
+2015,Cable Service Providers,10215-73
+2015,BPO/Outsource Services,11216-89
+2015,Cultivation,153302-77
+2015,Property and Casualty Insurance,10242-91
+2015,Specialty Chemicals,10242-91
+2015,Drug Delivery,11106-01
+2015,Restaurants and Bars,102476-98
+2015,Multi-line Insurance,102495-16
+2015,Personal Products,11114-56
+2015,Legal Services (B2C),104494-60
+2015,Plastic Containers & Packaging,59886-01
+2015,Other Communications and Networking,25770-34
+2015,Building Products,52284-70
+2015,Other Capital Markets/Institutions,10411-93
+2015,Wireless Communications Equipment,110874-43
+2015,Energy Production,166962-34
+2015,Private Equity,10416-88
+2015,"Broadcasting, Radio and Television",109196-92
+2015,Legal Services (B2B),54778-33
+2015,Printing Services (B2B),104719-60
+2015,Footwear,109674-37
+2015,Other Media,104776-30
+2015,Other Retail,105840-55
+2015,"Computers, Parts and Peripherals",108327-25
+2015,Industrial Chemicals,107450-56
+2015,Other Energy Services,127263-34
+2015,"Other Metals, Minerals and Mining",55741-51
+2015,Medical Supplies,10845-37
+2015,Wireless Service Providers,115012-36
+2015,Precious Metals and Minerals Mining,108183-97
+2015,Office Services (B2B),229524-85
+2015,Holding Companies,168340-69
+2015,Other Insurance,51132-34
+2015,Leisure Facilities,153018-55
+2015,Paper Containers & Packaging,110338-21
+2015,Decision/Risk Analysis,158929-39
+2015,Road,169498-45
+2015,Marine,11104-21
+2015,Commercial/Professional Insurance,11104-57
+2015,Synthetic Textiles,11106-82
+2015,Oil and Gas Equipment,11110-87
+2015,Distributors (Healthcare),11111-41
+2015,Investment Banks,11114-47
+2015,Life and Health Insurance,11140-03
+2015,Other Apparel,111325-87
+2015,Buildings and Property,64694-80
+2015,Other Consumer Non-Durables,166567-60
+2015,Gas Utilities,11143-54
+2015,Rail,11149-03
+2015,"Accounting, Audit and Tax Services (B2B)",11155-87
+2015,Other Containers and Packaging,111567-79
+2015,Electric Utilities,11158-57
+2015,General Purpose Semiconductors,51501-97
+2015,Other Pharmaceuticals and Biotechnology,11186-29
+2015,Wood/Hard Products,11188-90
+2015,Horticulture,11189-44
+2015,Household Appliances,162376-39
+2015,Hospitals/Inpatient Services,11208-43
+2015,Other Textiles,11219-05
+2015,Practice Management (Healthcare),222067-90
+2015,Other Equipment,11228-50
+2015,Energy Transportation,58184-83
+2015,Multi-line Chemicals,11231-38
+2015,Thrifts and Mortgage Finance,11233-09
+2015,Other Energy,112353-76
+2015,Luxury Goods,43003-54
+2015,Infrastructure,11244-34
+2015,Air,122570-02
+2015,Automotive Insurance,170365-69
+2015,Agricultural Chemicals,112783-60
+2015,Mineral Textiles,113023-45
+2015,Energy Traders and Brokers,11305-36
+2015,Plant Textiles,114313-51
+2015,Aquaculture,114619-69
+2015,Gold Mining,11605-96
+2015,Other Materials,58046-50
+2015,Metal Containers & Packaging,120890-80
+2015,Other Semiconductors,122634-19
+2015,Animal Husbandry,157650-22
+2015,Internet Service Providers,93943-72
+2015,Distributors/Wholesale (B2C),161030-62
+2015,Energy Exploration,222273-55
+2015,Energy Marketing,163281-16
+2015,Business Equipment and Supplies,226392-49
+2015,Department Stores,25168-96
+2015,Production (Semiconductors),52563-79
+2015,Raw Materials (Non-Wood),51243-40
+2015,Catalog Retail,51322-24
+2015,General Merchandise Stores,52166-62
+2015,National Banks,54134-74
+2015,Real Estate Investment Trusts (REITs),55133-47
+2015,Forestry Development/Harvesting,56583-10
+2015,Multi-line Mining,59869-00
+2015,Forestry Processing,61391-26
